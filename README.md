@@ -12,7 +12,7 @@
 
 TATySMP还处于公测阶段，Wiki并不完善并且随时会修改！！
 
-如果你愿意帮助我完善Wiki请务必在论坛私聊我[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)
+你可以来 [Github](https://github.com/TATyKeFei/TATySMP-Wiki) 页面 fork 这个wiki，然后在 github 推送 pr 帮助我完善wiki
 
 ## 关于TATySMP
 
