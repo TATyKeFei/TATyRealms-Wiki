@@ -14,14 +14,14 @@
 
 ### 进化史
 
-<img src="/test/loot_bag/img/1.png">
+<img src="/tips/loot_bag/img/1.png">
 
-<img src="/test/loot_bag/img/2.png">
+<img src="/tips/loot_bag/img/2.png">
 
-<img src="/test/loot_bag/img/3.png">
+<img src="/tips/loot_bag/img/3.png">
 
-<img src="/test/loot_bag/img/4.png">
+<img src="/tips/loot_bag/img/4.png">
 
 ### 废稿
 
-<img src="/test/loot_bag/img/5.jpg">
+<img src="/tips/loot_bag/img/5.jpg">

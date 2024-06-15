@@ -1,10 +1,8 @@
-## TATySMP 维基百科
-
 ## 欢迎访问TATy Wiki
 
-<a href="https://www.tatysmp.love">👉官网地址</a>
+👉[官网地址](https://www.tatysmp.love)
 
-<a href="https://bbs.tatysmp.love">👉社区论坛</a>
+👉[社区论坛](https://bbs.tatysmp.love)
 
 <img src="https://list.mczfw.cn/mc/23014.png"></img>
 
@@ -12,19 +10,19 @@
 
 TATySMP还处于公测阶段，Wiki并不完善并且随时会修改！！
 
-你可以来 [Github](https://github.com/TATyKeFei/TATySMP-Wiki) 页面 fork 这个wiki，然后在 github 推送 pr 帮助我完善wiki
+你可以来 [Github仓库](https://github.com/TATyKeFei/TATySMP-Wiki) 页面 fork 这个wiki，然后在 github 推送 pr 帮助我完善wiki
 
 ## 关于TATySMP
 
-TATySMP由“[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)”于2020年8月1日创建。最开始是基岩版服务器为朋友之间方便联机而开。
+TATySMP由“[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)”于2021年8月1日创建。最开始是基岩版服务器为朋友之间方便联机而开。
 
 后来慢慢的发现了插件的神奇力量逐渐走向互通服这个不归路发展成了Java/基岩互通服
 
-TATySMP服务器和网站只有腐竹一人维护，整个wiki页面都是我写的
+> 你知道吗? TATySMP服务器和网站只有腐竹一人维护，整个wiki内容都是TATyKeFei写的
 
 ## 会跑路吗?
 
-公益服我跑什么路。。。最多停服一阵子
+公益服跑什么路。。。最多没钱续费了停服一阵子
 
 ## TATySMP和[Axolotland Gameing Club](https://www.mcax.cn/)是什么关系?
 

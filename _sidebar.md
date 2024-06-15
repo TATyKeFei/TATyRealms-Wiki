@@ -34,6 +34,7 @@
 	* [签到](/tips/signin/README)
 
 * 开发中的东西
-	* [战利品袋](/test/loot_bag/README)
+	* [战利品袋](/tips/loot_bag/README.md)
+	* [四叶草](/tips/four_leaf_clover/README.md)
 
 * 关于TATySMP
