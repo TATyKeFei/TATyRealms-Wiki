@@ -25,8 +25,8 @@ jobs:
       - name: deploy
         uses: easingthemes/ssh-deploy@v2.1.1
         env:
-          # 本地.ssh文件下的私钥id_rsa，存在secrets的PRIVATE_KEY中
-          SSH_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
+          # 本地.ssh文件下的私钥id_rsa，存在secrets的PRIVATE_KEY中 ${{ secrets.PRIVATE_KEY }}
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY_BJ_IPC }}
           # 复制操作的参数。"-avzr --delete"意味部署时清空服务器目标目录下的文件
           ARGS: "-avzr --delete" 
           # 源目录，相对于$GITHUB_WORKSPACE根目录的路径
