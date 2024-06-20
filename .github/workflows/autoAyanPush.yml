@@ -23,21 +23,27 @@ jobs:
       
       # 部署到服务器
       - name: deploy
-        uses: easingthemes/ssh-deploy@v2.1.1
+        uses: easingthemes/ssh-deploy@v5.0.3
         env:
           # 本地.ssh文件下的私钥id_rsa，存在secrets的PRIVATE_KEY中 
           SSH_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
+          
           # 复制操作的参数。"-avzr --delete"意味部署时清空服务器目标目录下的文件
           # ARGS: "-avzr --delete" 
+          
           # 源目录，相对于$GITHUB_WORKSPACE根目录的路径
           SOURCE: "./"
+          
           # 服务器域名/IP
           REMOTE_HOST: 38.46.30.149
+          
           # 服务器默认用户名为root
           REMOTE_USER: "root"
+          
           # 目标目录
           TARGET: '/www/wwwroot/wiki.tatysmp.love'
+          
           # 排除目录
-          EXCLUDE: ".user.ini, .nojekyll"
+          EXCLUDE: "./.github/"
 
 
