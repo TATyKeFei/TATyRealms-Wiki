@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Deploy My Server
+name: 部署到服务器网站
 
 on:
   push:
@@ -36,7 +36,7 @@ jobs:
           # 服务器默认用户名为root
           REMOTE_USER: "root"
           # 目标目录
-          TARGET: '/www/wwwroot/wiki.tatysmp.love'
+          TARGET: '/www/wwwroot/wiki.tatysmp.love/'
           # 排除目录
           EXCLUDE: "/.github/"
 
