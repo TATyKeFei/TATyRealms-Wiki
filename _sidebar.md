@@ -13,6 +13,7 @@
 	* [通行证](/Play/battlepass/README)
 	* [称号](Play/NameTag/README)
 	* [空投](/Play/CrazyEnvoys/README)
+	* [附魔系统](/Play/enchants/README.md)
 	* [连锁采集](Play/veinminer/veinminer)
 	* [酿酒](Play/Brewery/HowPlay)
 	* [时装系统](Play/CosPlay/README)
@@ -22,8 +23,8 @@
 	* [待补充](README)
 	
 * 世界
-	* [主城](/World/spawn)
 	* [旧主城](/World/old_spawn)
+	* [主城](/World/spawn)
 	* [生存一区](/World/otd_doungeon)
 	* [生存二区](/World/world)
 	* [资源世界](/World/world_terra)
@@ -32,9 +33,9 @@
 
 * 小知识
 	* [签到](/tips/signin/README)
+	* [四叶草](/tips/four_leaf_clover/README.md)
 
 * 开发中的东西
 	* [战利品袋](/tips/loot_bag/README.md)
-	* [四叶草](/tips/four_leaf_clover/README.md)
 
 * 关于TATySMP
