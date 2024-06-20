@@ -23,7 +23,7 @@ jobs:
       
       # 部署到服务器
       - name: deploy
-        uses: easingthemes/ssh-deploy@v5.0.3
+        uses: easingthemes/ssh-deploy@main
         env:
           # 本地.ssh文件下的私钥id_rsa，存在secrets的PRIVATE_KEY中 
           SSH_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
