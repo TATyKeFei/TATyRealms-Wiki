@@ -36,8 +36,8 @@ jobs:
           # 服务器默认用户名为root
           REMOTE_USER: "root"
           # 目标目录
-          TARGET: '/www/wwwroot/wiki.tatysmp.love/'
+          TARGET: '/www/wwwroot/wiki.tatysmp.love'
           # 排除目录
-          EXCLUDE: "/.github/"
+          EXCLUDE: ".user.ini, .nojekyll"
 
 
