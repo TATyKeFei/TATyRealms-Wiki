@@ -11,16 +11,18 @@
 	* [服务器特性](Play/peculiarity/README)
 	* [粘液科技](/Play/Slimefun/Slimefun)
 	* [通行证](/Play/battlepass/README)
-	* [称号](Play/NameTag/README)
+	* [称号](/Play/NameTag/README)
+	* [农作物](/Play/Corps/README)
 	* [空投](/Play/CrazyEnvoys/README)
+	* [钓鱼](/Play/fishing/README)
 	* [附魔系统](/Play/enchants/README.md)
-	* [连锁采集](Play/veinminer/veinminer)
-	* [酿酒](Play/Brewery/HowPlay)
-	* [时装系统](Play/CosPlay/README)
-	* [喷漆](Play/Sprays/README)
-	* [表情包](Play/emoji/README)
-	* [宠物](Play/mcpets/README)
-	* [待补充](README)
+	* [连锁采集](/Play/veinminer/veinminer)
+	* [酿酒](/Play/Brewery/HowPlay)
+	* [时装系统](/Play/CosPlay/README)
+	* [喷漆](/Play/Sprays/README)
+	* [表情包](/Play/emoji/README)
+	* [宠物](/Play/mcpets/README)
+	* [还有更多待补充]()
 	
 * 世界
 	* [旧主城](/World/old_spawn)
@@ -34,6 +36,11 @@
 * 小知识
 	* [签到](/tips/signin/README)
 	* [四叶草](/tips/four_leaf_clover/README.md)
+	* [魔镜](/mirror/README)
+
+* 武器装备
+	* [忍者套装](/equi/ninja/README)
+	* [潜幽守卫套装](/equi/warden/README.md)
 
 * 开发中的东西
 	* [战利品袋](/tips/loot_bag/README.md)
