@@ -20,6 +20,23 @@ TATySMP还处于公测阶段，Wiki并不完善并且随时会修改！！
 
 有关文档编写规范请看 [这里](https://yizhan.wiki/NitWikit/category/%E7%BC%96%E5%86%99%E8%A7%84%E8%8C%83)
 
+### 贡献者名单
+
+他们为TATy Wiki贡献了部分文档
+
+<table>
+  
+  <tr>
+    <td align="center">
+      <a href="https://github.com/TATyKeFei">
+        <img src="https://avatars.githubusercontent.com/u/125815900?v=4" width="50;" alt=""/><br />
+        <sub><b>TATyKeFei</b></sub>
+      </a>
+    </td>
+  </tr>
+  
+<table>
+
 ## 关于TATySMP
 
 TATySMP由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建。最开始是基岩版服务器为朋友之间方便联机而开。
