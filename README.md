@@ -29,7 +29,7 @@ TATySMP还处于公测阶段，Wiki并不完善并且随时会修改！！
   <tr>
     <td align="center">
       <a href="https://github.com/TATyKeFei">
-        <img src="https://avatars.githubusercontent.com/u/125815900?v=4" width="50;" alt=""/><br />
+        <img src="https://avatars.githubusercontent.com/u/125815900?v=4" width="50;" alt=""/><br>
         <sub><b>TATyKeFei</b></sub>
       </a>
     </td>
