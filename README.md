@@ -24,18 +24,7 @@ TATySMP还处于公测阶段，Wiki并不完善并且随时会修改！！
 
 他们为TATy Wiki贡献了部分文档
 
-<table>
-  
-  <tr>
-    <td align="center">
-      <a href="https://github.com/TATyKeFei">
-        <img src="https://avatars.githubusercontent.com/u/125815900?v=4" width="50;" alt=""/><br>
-        <sub><b>TATyKeFei</b></sub>
-      </a>
-    </td>
-  </tr>
-  
-<table>
+> 好吧，看起来没有 QAQ
 
 ## 关于TATySMP
 
