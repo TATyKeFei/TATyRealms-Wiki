@@ -10,7 +10,7 @@
 
 TATySMP还处于公测阶段，Wiki并不完善并且随时会修改！！
 
-你可以来 [Github仓库](https://github.com/TATyKeFei/TATySMP-Wiki) 页面 fork 这个 wiki ，然后在 github 推送 pr 帮助我完善wiki
+你可以来 [Github仓库](https://github.com/TATyKeFei/TATySMP-Wiki) 页面 fork 这个 wiki ，然后在 github 拉去请求帮助我完善wiki
 
 > 如果你想帮我编写，务必在编写前发个 Issues 让我知道!! 并告诉我你在编写哪个部分
 > 
