@@ -1,4 +1,4 @@
-* 首页
+* 关于TATySMP
     * [TATySMP Wiki](README.md)
     * [支持服务器](donate.md)
 
@@ -36,13 +36,14 @@
 * 小知识
 	* [签到](/tips/signin/README)
 	* [四叶草](/tips/four_leaf_clover/README.md)
+	* [战利品](tips/loot_bag/README.md)
 	* [魔镜](/mirror/README)
 
 * 武器装备
 	* [忍者套装](/equi/ninja/README)
 	* [潜幽守卫套装](/equi/warden/README.md)
+	* [铜套装](/equi/copper/README.md)
 
 * 开发中的东西
 	* [战利品袋](/tips/loot_bag/README.md)
-
-* 关于TATySMP
+	* [太空](/Play/space/README.md)
