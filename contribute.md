@@ -49,9 +49,10 @@
     <!--Bestcb-->
     <td align="center">
       <a href="https://space.bilibili.com/302096863?spm_id_from=333.337.search-card.all.click">
-        <img src="https://i1.hdslb.com/bfs/face/5ecbee9625995bba9580bb3a5d55269b5fdb5c40.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif" width="50;" alt=""/><br>
+        <img src="https://bbs.mcax.cn/data/avatars/l/0/1.jpg" width="50;" alt=""/><br>
         <a>
             Bestcb<br>
+            Axoltland 服主<br>
             为 TATyRealms 提供了游戏服务器机子
         </a>
       </a>

@@ -1,24 +1,15 @@
-# This is a basic workflow to help you get started with Actions
-
-name: 部署到服务器网站
+name: 不用管报错，实际上已经同步过去了
 
 on:
   push:
     branches: [ master ]
 
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
       # 部署到服务器
@@ -27,9 +18,6 @@ jobs:
         env:
           # 本地.ssh文件下的私钥id_rsa，存在secrets的PRIVATE_KEY中 
           SSH_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
-          
-          # 复制操作的参数。"-avzr --delete"意味部署时清空服务器目标目录下的文件
-          # ARGS: "-avzr --delete" 
           
           # 源目录，相对于$GITHUB_WORKSPACE根目录的路径
           SOURCE: "./"
