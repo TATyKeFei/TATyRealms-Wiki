@@ -1,4 +1,4 @@
-# 感谢人员名单
+# 贡献者名单
 
 感谢这些玩家对 TATy Realms 的贡献
 
@@ -32,17 +32,17 @@
          <img src="#" width="50;" alt=""/><br>
         <a>
             DSCYYDSSS<br>
-            帮助大部分建筑
+            帮助主城部分建筑
         </a>
       </a>
     </td>
     <!--Giaojzf-->
     <td align="center">
       <a href="https://b23.tv/4vSaY2S">
-        <img src="https://i2.hdslb.com/bfs/face/ead159f5c689388fedee691b14ea6bc05b73493e.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif" width="50;" alt=""/><br>
+        <img src="https://i2.hdslb.com/bfs/face/ead159f5c689388fedee691b14ea6bc05b73493e.jpg" width="50;" alt=""/><br>
         <a>
             giaojzf<br>
-            帮助主城部分建筑
+            帮助旧主城部分建筑
         </a>
       </a>
     </td>
