@@ -13,9 +13,9 @@ TATyRealms还处于公测阶段，Wiki并不完善并且随时会修改！！
 你可以来 [Github仓库](https://github.com/TATyKeFei/TATyRealms-Wiki) 页面 fork 这个 wiki ，然后在 github 通过打开拉取请求帮助我完善 wiki
 
 > 如果你想帮我编写，务必在编写前发个 Issues 让我知道!! 并告诉我你在编写哪个部分
-> 
+>
 > 如果你想帮我编写，务必在编写前发个 Issues 让我知道!! 并告诉我你在编写哪个部分
-> 
+>
 > 如果你想帮我编写，务必在编写前发个 Issues 让我知道!! 并告诉我你在编写哪个部分
 
 有关文档编写规范请看 [这里](https://yizhan.wiki/NitWikit/category/%E7%BC%96%E5%86%99%E8%A7%84%E8%8C%83)
