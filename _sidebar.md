@@ -1,7 +1,7 @@
 * 关于TATySMP
     * [TATySMP Wiki](README.md)
     * [支持服务器](donate.md)
-	* [感谢名单](contribute.md)
+	* [贡献者名单](contribute.md)
 
 * 疑难解答
     * [常见问题](/Help/help.md)
