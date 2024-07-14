@@ -6,11 +6,9 @@
 
 示例: `/sprays upload https://www.tatysmp.love/images/logo.png`
 
-`/givesprays` 获得喷漆灌
-
 ## 使用教程
 
-> 小提示: java玩家可快速双击f来进行喷漆
+快速双击 F 来进行喷漆，潜行状态快速双击 F 可喷出大喷漆
 
 在上传完图片加载完成后，使用喷漆罐"右键/点击"地面来进行喷漆。
 
