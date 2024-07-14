@@ -2,13 +2,11 @@
 
 ## 指令
 
-```
-/sprays upload <图片url链接> --上传喷漆图片到服务器
+`/sprays upload <图片url链接>` 上传喷漆图片到服务器
 
-示例: /sprays upload https://www.tatysmp.love/images/logo.png
+示例: `/sprays upload https://www.tatysmp.love/images/logo.png`
 
-/givesprays --获得喷漆灌
-```
+`/givesprays` 获得喷漆灌
 
 ## 使用教程
 
