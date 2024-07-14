@@ -22,7 +22,7 @@ div#app {
   text-align: center;
 }
 div#app:empty::before {
-  content: 'Loading...';
+  content: '加载中...';
 }
 img.emoji {
   height: 1.2em;

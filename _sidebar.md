@@ -1,4 +1,4 @@
-* 关于TATyRealms
+* 关于 TATyRealms
     * [TATyRealms Wiki](README.md)
     * [支持服务器](donate.md)
 	* [贡献者名单](contribute.md)
