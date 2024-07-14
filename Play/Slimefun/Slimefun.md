@@ -41,7 +41,7 @@ src="Play/Slimefun/img/SlimefunRes.png"></img>
 源之花 FlowerPower
 粘液匠魂 SlimeTinker
 粘液木龙头 SlimyTreeTaps
-服主自制粘液科技 SlimefunTATySMP
+服主自制粘液科技 SlimefunTATyRealms
 ```
 
 ---
