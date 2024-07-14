@@ -595,7 +595,7 @@ section.cover blockquote > p > a:hover {
   color: var(--theme-color, #ea6f5a);
 }
 body {
-  background: linear-gradient(to right, #bb7657, #51514c);
+  background: #51514c;
 }
 /* sidebar */
 .sidebar {
