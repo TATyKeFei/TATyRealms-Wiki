@@ -1,5 +1,5 @@
-* 关于TATySMP
-    * [TATySMP Wiki](README.md)
+* 关于TATyRealms
+    * [TATyRealms Wiki](README.md)
     * [支持服务器](donate.md)
 	* [贡献者名单](contribute.md)
 
