@@ -14,7 +14,10 @@
 
 同时移植了基岩版也能用(大部分，还有一些没移植)
 
-<img src="Play/Slimefun/img/SlimefunRes.png"></img>
+（!请注意,这个服务器对基岩版已经停止支持了!)
+
+<img 
+src="Play/Slimefun/img/SlimefunRes.png"></img>
 
 ---
 
