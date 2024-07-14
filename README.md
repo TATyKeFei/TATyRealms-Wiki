@@ -8,9 +8,9 @@
 
 ## 帮助我完成Wiki
 
-TATySMP还处于公测阶段，Wiki并不完善并且随时会修改！！
+TATyRealms还处于公测阶段，Wiki并不完善并且随时会修改！！
 
-你可以来 [Github仓库](https://github.com/TATyKeFei/TATySMP-Wiki) 页面 fork 这个 wiki ，然后在 github 通过打开拉取请求帮助我完善 wiki
+你可以来 [Github仓库](https://github.com/TATyKeFei/TATyRealms-Wiki) 页面 fork 这个 wiki ，然后在 github 通过打开拉取请求帮助我完善 wiki
 
 > 如果你想帮我编写，务必在编写前发个 Issues 让我知道!! 并告诉我你在编写哪个部分
 > 
@@ -24,9 +24,9 @@ TATySMP还处于公测阶段，Wiki并不完善并且随时会修改！！
 
 他们为TATy Wiki贡献了部分文档
 
-> 好吧，看起来没有 QAQ
+>XiaoruiHiHa2024
 
-## 关于TATySMP
+## 关于TATyRealms
 
 TATySMP由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建。最开始是基岩版服务器为朋友之间方便联机而开。
 
@@ -36,9 +36,9 @@ TATySMP由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1
 
 公益服跑什么路。。。最多没钱续费了停服一阵子
 
-## TATySMP和[Axolotland Gameing Club](https://www.mcax.cn/)是什么关系?
+## TATyRealms和[Axolotland Gameing Club](https://www.mcax.cn/)是什么关系?
 
-我在他们那边当管理员协助他们维护互通服，因为他们给我提供了游戏服务器。所以你可能会在他们那里看到些TATySMP相关的资源
+我在他们那边当管理员协助他们维护互通服，因为他们给我提供了游戏服务器。所以你可能会在他们那里看到些TATyRealms相关的资源
 
 ## 我为什么开服?
 
