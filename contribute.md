@@ -21,8 +21,8 @@
       <a href="https://bbs.tatysmp.love/index.php?members/xiaoruiedge.8/">
          <img src="https://bbs.tatysmp.love/data/avatars/s/0/8.jpg" width="50;" alt=""/><br>
         <a>
-            XiaoruiEdge<br>
-            提供ui、物品、草图、灵感
+            XiaoruiHiHa2024<br>
+            提供ui、物品、草图、灵感、小部分wiki文档
         </a>
       </a>
     </td>
@@ -53,7 +53,7 @@
         <a>
             Bestcb<br>
             Axoltland 服主<br>
-            为 TATyRealms 提供了游戏服务器机子
+             为 TATyRealms 提供了游戏服务器机子
         </a>
       </a>
     </td>
