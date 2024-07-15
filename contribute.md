@@ -21,7 +21,7 @@
       <a href="https://bbs.tatysmp.love/index.php?members/xiaoruiedge.8/">
          <img src="https://bbs.tatysmp.love/data/avatars/s/0/8.jpg" width="50;" alt=""/><br>
         <a>
-            XiaoruiEdge<br>
+            XiaoruiHiHa2024<br>
             提供ui、物品、草图、灵感
         </a>
       </a>
