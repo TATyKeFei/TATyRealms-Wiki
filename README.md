@@ -4,7 +4,7 @@
 
 👉[社区论坛](https://bbs.tatysmp.love)
 
-![](https://list.mczfw.cn/mc/23014.png)
+![](https://api.loohpjames.com/serverbanner.png?ip=play.tatysmp.love&name=TATyRealms&offlinemessage=%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BB%B4%E6%8A%A4%E4%B8%AD&timezone=Asia/Shanghai)
 
 ## 帮助我完成Wiki
 
