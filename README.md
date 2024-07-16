@@ -18,13 +18,7 @@ TATyRealms还处于公测阶段，Wiki并不完善并且随时会修改！！
 >
 > 如果你想帮我编写，务必在编写前发个 Issues 让我知道!! 并告诉我你在编写哪个部分
 
-有关文档编写规范请看 [这里](https://yizhan.wiki/NitWikit/category/%E7%BC%96%E5%86%99%E8%A7%84%E8%8C%83)
-
-### 贡献者名单
-
-他们为TATy Wiki贡献了部分文档
-
->XiaoruiHiHa2024
+有关文档编写规范请看 [这里](https://yizhan.wiki/NitWikit/contribution/writing)
 
 ## 关于TATyRealms
 
