@@ -23,7 +23,6 @@
 	* [喷漆](/Play/Sprays/README)
 	* [表情包](/Play/emoji/README)
 	* [宠物](/Play/mcpets/README)
-	* [还有更多待补充]()
 	
 * 世界
 	* [旧主城](/World/old_spawn)
@@ -41,6 +40,7 @@
 	* [魔镜](/mirror/README)
 
 * 武器装备
+	* [回旋镖](/equi/boomerang/README)
 	* [忍者套装](/equi/ninja/README)
 	* [潜幽守卫套装](/equi/warden/README.md)
 	* [铜套装](/equi/copper/README.md)

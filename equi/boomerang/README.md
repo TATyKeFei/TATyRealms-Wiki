@@ -6,7 +6,7 @@
 
 <img src="./equi/boomerang/img/craft.jpg">
 
-## 属性
+## 基础属性
 
 回旋镖数值属性
 

@@ -595,12 +595,11 @@ section.cover blockquote > p > a:hover {
   color: var(--theme-color, #ea6f5a);
 }
 body {
-  background: #51514c;
+  background: #7d5441;
 }
 /* sidebar */
 .sidebar {
   background: #bb7657;
-  border-radius: 0px 40px 10px 0px;
   color: #ffffff;
 }
 .sidebar li {
