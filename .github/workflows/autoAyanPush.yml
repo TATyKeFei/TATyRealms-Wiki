@@ -23,7 +23,7 @@ jobs:
           SOURCE: "./"
           
           # 服务器域名/IP
-          REMOTE_HOST: 38.46.30.149
+          REMOTE_HOST: wiki.tatysmp.love
           
           # 服务器默认用户名为root
           REMOTE_USER: "root"
