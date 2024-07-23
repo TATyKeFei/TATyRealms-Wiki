@@ -7,3 +7,9 @@
 ## 制作配方
 
 <img src="./equi/mirror/img/craft.jpg">
+
+### 材料总需
+
+* 金锭 x6
+* 钻石 x2
+* 玻璃 x1
