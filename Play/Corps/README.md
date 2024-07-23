@@ -8,7 +8,7 @@
 
 好用程度 ⭐⭐⭐⭐⭐ 5/5
 
-<img src="/Play/Corps/img/pot_craft.png" width="400px">
+<img src="/Play/Corps/img/pot_craft.jpg" width="400px">
 
 ### 材料总需
 
@@ -21,7 +21,7 @@
 
 好用程度 ⭐⭐⭐⭐⭐ 5/5
 
-<img src="/Play/Corps/img/daocaoren_craft.png" width="400px">
+<img src="/Play/Corps/img/daocaoren_craft.jpg" width="400px">
 
 ### 材料总需
 
@@ -35,7 +35,7 @@
 
 好用程度 ⭐⭐⭐⭐⭐ 5/5
 
-<img src="/Play/Corps/img/kanceqi_craft.png" width="400px">
+<img src="/Play/Corps/img/kanceqi_craft.jpg" width="400px">
 
 ### 材料总需
 
@@ -124,7 +124,7 @@ fw铜用处 +1
 
 好用程度 ⭐⭐⭐ 3/5
 
-<img src="/Play/Corps/img/sprinklers_1.png" width="400px">
+<img src="/Play/Corps/img/sprinklers_1.jpg" width="400px">
 
 ### 材料总需
 
@@ -138,7 +138,7 @@ fw铜用处 +1
 
 好用程度 ⭐⭐⭐⭐ 4/5
 
-<img src="/Play/Corps/img/sprinklers_2.png" width="400px">
+<img src="/Play/Corps/img/sprinklers_2.jpg" width="400px">
 
 ### 材料总需
 
@@ -152,7 +152,7 @@ fw铜用处 +1
 
 好用程度 ⭐⭐⭐⭐⭐ 5/5
 
-<img src="/Play/Corps/img/sprinklers_3.png" width="400px">
+<img src="/Play/Corps/img/sprinklers_3.jpg" width="400px">
 
 ### 材料总需
 
@@ -165,3 +165,7 @@ fw铜用处 +1
 你可以在主城 花店NPC 处购买种子，也可以选择尝试在 资源世界 寻找!
 
 他们散落在服务器的角落，快去寻找吧!
+
+> 最近更新 2024.7.23
+> 
+> 编辑 TATyKeFei
