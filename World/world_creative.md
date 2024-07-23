@@ -8,8 +8,6 @@
 
 但是要注意背包和末影箱等都是和其他世界隔离的
 
-<img src="/World/img/world_creative1.png" width="400px">
-
 ## 世界规则
 
 * 不自然生成实体
@@ -21,4 +19,12 @@
 
 也可以用于给建筑党在这里建筑，妈妈再也不用怕我找到材料了!
 
-总之，务必记得圈领地！
+总之，务必记得圈地！
+
+## 地形一览
+
+<img src="/World/img/world_creative1.png" width="400px">
+
+<img src="/World/img/world_creative2.png" width="400px">
+
+<img src="/World/img/world_creative3.png" width="400px">
