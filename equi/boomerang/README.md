@@ -37,7 +37,13 @@
 
 ## 画廊展示
 
-### 手持
+> 可能随时会改，非最终效果图
+
+### 第一人称手持
+
+<img src="./equi/boomerang/img/fps.jpg">
+
+### 第三人称手持
 
 <img src="./equi/boomerang/img/in_hand.jpg">
 
