@@ -8,7 +8,7 @@
 
 <img src="./Play/CosPlay/img/UI.jpg" width="400px">
 
-<img src="./Play/CosPlay/img/demo.jpg" width="400px">
+<img src="./Play/CosPlay/img/demo.png" width="400px">
 
 ## 如何操作?
 
@@ -20,6 +20,4 @@
 
 饰品能通过游戏虚拟货币和活动获得，公益服没有任何氪金项目
 
-当有人跟你用 RMB 交换饰品的时，不要理会。饰品所有权是无法转给他人的
-
-被骗我不负责
+当有人跟你用 RMB 交换饰品的时，不要理会。饰品所有权是无法转给他人的，被骗我不负责
