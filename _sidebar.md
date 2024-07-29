@@ -8,12 +8,12 @@
     * [基岩版问题](/Help/BEHELP.md)
     * [Java版问题](/Help/JEHELP.md)
 		
-* 服务器玩法
+* 玩法类
 	* [服务器特性](Play/peculiarity/README)
 	* [粘液科技](/Play/Slimefun/Slimefun)
 	* [通行证](/Play/battlepass/README)
 	* [称号](/Play/NameTag/README)
-	* [农作物](/Play/Corps/README)
+	* [作物](/Play/Corps/README)
 	* [空投](/Play/CrazyEnvoys/README)
 	* [钓鱼](/Play/fishing/README)
 	* [附魔系统](/Play/enchants/README.md)

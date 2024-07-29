@@ -42,6 +42,6 @@
 
 如果你想要投稿称号 <a href="https://bbs.tatysmp.love/index.php?threads/%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E6%8A%95%E7%A8%BF%E7%A7%B0%E5%8F%B7-%E9%9D%99%E6%80%81%E7%A7%B0%E5%8F%B7.6/">请看这里</a>
 
-> 编辑更新时间：2024/7/29
+> 最近更新：2024/7/29
 >
 > 编辑：TATyKeFei
