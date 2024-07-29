@@ -7,6 +7,7 @@
     * [常见问题](/Help/help.md)
     * [基岩版问题](/Help/BEHELP.md)
     * [Java版问题](/Help/JEHELP.md)
+    * [新手攻略](/Help/strategy.md)
 		
 * 玩法类
 	* [服务器特性](Play/peculiarity/README)
