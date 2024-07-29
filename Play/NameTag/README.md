@@ -12,17 +12,17 @@
 
 ## 称号有什么用
 
-他可以显示在你的名字前面，TAB玩家列表前面，和侧边栏
+他可以显示在你的名字前面，TAB玩家列表前面、侧边栏以及铭牌上方
 
 不同的称号可以获得不同的 buff 加成
 
 ## 预览
 
-所有称号都是服主自己画的，偷包狗倒卖死马
+所有称号都是服主自己画的，偷包倒卖狗死妈
 
 <img src="/Play/NameTag/img/chat.jpg" width="400px"></img>
 
-<img src="/Play/NameTag/img/demo.jpg" width="400px"></img>
+<img src="/Play/NameTag/img/demo.png" width="400px"></img>
 
 ## 部分特殊称号获取条件
 
@@ -41,3 +41,7 @@
 ## 投稿称号
 
 如果你想要投稿称号 <a href="https://bbs.tatysmp.love/index.php?threads/%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E6%8A%95%E7%A8%BF%E7%A7%B0%E5%8F%B7-%E9%9D%99%E6%80%81%E7%A7%B0%E5%8F%B7.6/">请看这里</a>
+
+> 编辑更新时间：2024/7/29
+>
+> 编辑：TATyKeFei
