@@ -30,14 +30,6 @@
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 
-  <!--页脚-->
-  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js">
-    window.$docsify = {
-      loadFooter: true,
-      loadFooter: '_footer.md',
-    };
-  </script>
-
   <!--字数统计-->
   <script src="./plugins/countable.min.js">
     window.$docsify = {
@@ -79,6 +71,14 @@
       'flexible-alerts': {
         style: 'flat'
       }
+    };
+  </script>
+
+  <!--页脚-->
+  <script src="./plugins/footer.js">
+    window.$docsify = {
+      loadFooter: true,
+      loadFooter: '_footer.md',
     };
   </script>
 
