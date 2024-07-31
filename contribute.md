@@ -8,15 +8,15 @@
 
 | 贡献者                | 贡献内容                                         | 相关连接                                                                                         |
 | :---:                | :---                                             | :---                                                                                            |
-| TATyKeFei            | TATyRealms 服主                                  | [<span class="icon-github"></span> Github](https://github.com/TATyKeFei)                        |
+| TATyKeFei            | 物品设计、地图制作、美术资源、开发者、策划、服主     | [<span class="icon-github"></span> Github](https://github.com/TATyKeFei)                        |
 | Bestcb               | 为 TATyRealms 提供了游戏服务器机子                 | [Axolotland 服务器](https://www.mcax.cn/)                                                        |
 | DSCYYDSSS            | 帮助主城建筑、僵尸末日村庄地图建筑                  |                                                                                                 |
 | 哈2哈哈哈3            | 精神支柱，让我继续把服开下的动力                    |                                                                                                 |
 | mengyihh             | 精神支柱、早期 TATySMP BE 时代的辅助指令师          |                                                                                                 |
 | giaojzf              | 帮助主城建筑、精神支柱、内测玩家                    |                                                                                                 |
 | XiaoruiHiHa2024      | 提供ui、物品草图、设计灵感、小部分wiki文档          | [<span class="icon-github"></span> Github](https://github.com/Xrui875)                          |
-| TOTRYT               | 帮忙代购插件                                      |                                                                                                 |
+| TOTRYT               | 帮忙代购插件、内测玩家                             |                                                                                                 |
 
-> 最近更新：2024/7/29
+> 最近更新：2024/7/31
 >
 > 编辑：TATyKeFei

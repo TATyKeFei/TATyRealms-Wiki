@@ -22,17 +22,19 @@ TATyRealms还处于公测阶段，Wiki并不完善并且随时会修改！！
 
 ## 关于TATyRealms
 
-TATySMP由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建。最开始是基岩版服务器为朋友之间方便联机而开。
+TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建
 
-后来慢慢的发现了插件的神奇力量逐渐走向互通服这个不归路发展成了Java/基岩互通服
+经理了几年的打磨更新迭代，还在不断完善优化
 
 ## 会跑路吗?
 
-公益服跑什么路。。。最多没钱续费了停服一阵子
+公益服跑什么路。。。最多没钱续费服务器机子了停服一阵子
 
-## TATyRealms和[Axolotland Gameing Club](https://www.mcax.cn/)是什么关系?
+## TATyRealms 和 [Axolotland Gameing Club](https://www.mcax.cn/) 是什么关系?
 
-我在他们那边当管理员协助他们维护互通服，因为他们给我提供了游戏服务器。所以你可能会在他们那里看到些TATyRealms相关的资源
+我在他们那边当管理员协助他们维护互通服，因为他们给我提供了游戏服务器
+
+所以你可能会在他们那里看到些 TATyRealms 相关的资源
 
 ## 我为什么开服?
 
