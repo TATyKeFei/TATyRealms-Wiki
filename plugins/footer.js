@@ -22,7 +22,7 @@ const createStyle = function () {
     const styleTag = document.createElement('style');
     styleTag.id = footerStyleId;
     styleTag.innerHTML = `
-            .footer { height: 50px; margin: 0 auto; background: #eee; padding: 0 30px; text-align: center; overflow: hidden; }
+            .footer { height: 50px; margin: 0 auto; padding: 0 30px; text-align: center; overflow: hidden; }
             .footer-item { display: inline-block; padding-left: 8px; padding-right: 8px; color: #999; font-size: 12px; vertical-align: middle; white-space: nowrap; }
             .footer-link {text-decoration: none;}
         `;

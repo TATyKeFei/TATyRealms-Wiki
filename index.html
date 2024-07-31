@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh">
+
 <head>
   <meta charset="UTF-8">
   <title>TATyRealms-Wiki</title>
@@ -8,72 +9,101 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="./themes/style.css">
   <link rel="stylesheet" href="./themes/icon.css">
-  <link rel="shortcut icon" href="./logo.png" type="image/x-icon" >
+  <link rel="shortcut icon" href="./logo.png" type="image/x-icon">
 
 </head>
+
 <body>
   <div id="app"></div>
-  
+
   <!-- 配置文件 -->
   <script>
     window.$docsify = {
       name: '',
       repo: '',
-	  loadSidebar: true,
-	  subMaxLevel: 2,
-	  loadNavbar: true
+      loadSidebar: true,
+      subMaxLevel: 2,
+      loadNavbar: true
     }
   </script>
-  
+
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  
+
   <!--字数统计-->
   <script src="./plugins/countable.min.js">
     window.$docsify = {
-      count:{
-      countable: true,
-      position: 'top',
-      margin: '10px',
-      float: 'right',
-      fontsize:'0.9em',
-      color:'rgb(200,200,200)',
-      language:'chinese',
-      localization: {
-      words: "字",
-      minute: "分"
-      },
-      isExpected: true
+      count: {
+        countable: true,
+        position: 'top',
+        margin: '10px',
+        float: 'right',
+        fontsize: '0.9em',
+        color: 'rgb(200,200,200)',
+        language: 'chinese',
+        localization: {
+          words: "字",
+          minute: "分"
+        },
+        isExpected: true
+      }
     }
-  }
   </script>
-  
+
   <!--下一章节-->
   <script src="./plugins/next-pre.js">
     window.$docsify = {
       pagination: {
-      previousText: '上一章节',
-      nextText: '下一章节',
-      crossChapter: true,
-      crossChapterText: true,
-    },
-  }
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+    }
   </script>
 
   <!--图片缩放-->
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
-  
+
   <!--代码高亮-->
   <script src="https://unpkg.com/docsify-plugin-flexible-alerts">
     window.$docsify = {
-    'flexible-alerts': {
-      style: 'flat'
-    }
-  };
+      'flexible-alerts': {
+        style: 'flat'
+      }
+    };
   </script>
 
   <!--页脚-->
-  <script src="./plugins/footer.js"></script>
-  
+  <script src="./plugins/footer.js">
+    const footerHtml = [
+      '<hr/>',
+      '<footer>',
+      '<span><a href="https://www.tatysmp.love" target="_blank">TATyRealms</a></span>',
+      '<span style="margin-left: 20px;"><a href="https://space.bilibili.com/662889837?spm_id_from=333.1007.0.0" target="_blank">By TATyKeFei</a>.</span>',
+      '</footer>'
+    ].join('');
+    const footerNode = document.createElement('div');
+    footerNode.innerHTML = footerHtml;
+    footerNode.style.padding = '0 30px';
+    footerNode.style.textAlign = 'center';
+    window.$docsify = {
+      customFooter: {
+        textLinks: [
+          {
+            tagType: 'a',
+            text: 'TATyRealms',
+            link: 'https://www.tatysmp.love'
+          },
+          {
+            tagType: 'text',
+            text: '©TATyRealms 2021-2024'
+          }
+        ]
+      }
+    }
+  </script>
+
 </body>
+
 </html>
