@@ -30,6 +30,14 @@
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 
+  <!--页脚-->
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js">
+    window.$docsify = {
+      loadFooter: true,
+      loadFooter: '_footer.md',
+    };
+  </script>
+
   <!--字数统计-->
   <script src="./plugins/countable.min.js">
     window.$docsify = {
@@ -65,32 +73,12 @@
   <!--图片缩放-->
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
 
-  <!--代码高亮-->
+  <!--文本高亮-->
   <script src="https://unpkg.com/docsify-plugin-flexible-alerts">
     window.$docsify = {
       'flexible-alerts': {
         style: 'flat'
       }
-    };
-  </script>
-
-  <!--侧边栏页脚-->
-  <script src="./plugins/footer.js">
-    window.$docsify = {
-      autoFooter: {
-        name: "TATyTEAM",
-        url: "https://www.tatysmp.love",
-        copyYear: 2021,
-      }
-    };
-  </script>
-  <footer id="mb-footer"></footer>
-
-  <!--页脚-->
-  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js">
-    window.$docsify = {
-      loadFooter: true,
-      loadFooter: '_footer.md',
     };
   </script>
 
