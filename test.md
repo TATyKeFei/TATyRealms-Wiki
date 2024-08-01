@@ -14,3 +14,20 @@
 > [!ATTENTION]
 > 注意提示.
 
+## TAB卡测试
+
+<!-- tabs:start -->
+
+#### **English**
+
+Hello!
+
+#### **French**
+
+Bonjour!
+
+#### **Italian**
+
+Ciao!
+
+<!-- tabs:end -->

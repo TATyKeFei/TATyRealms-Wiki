@@ -26,18 +26,14 @@ TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?me
 
 经理了几年的打磨更新迭代，还在不断完善优化
 
+> 你知道吗? TATyKeFei 以前巅峰时期一天更新9次，一周三次大更新
+
 ## 会跑路吗?
 
-公益服跑什么路。。。最多没钱续费服务器机子了停服一阵子
+是的，我们是圈钱服，圈完钱就跑路 1s
 
 ## TATyRealms 和 [Axolotland Gameing Club](https://www.mcax.cn/) 是什么关系?
 
 我在他们那边当管理员协助他们维护互通服，因为他们给我提供了游戏服务器
 
 所以你可能会在他们那里看到些 TATyRealms 相关的资源
-
-## 我为什么开服?
-
-太闲了给自己找点事干。除了这个服务器不知道我还能干什么
-
-> 你知道吗? TATyKeFei 以前巅峰时期一天更新9次，一周三次大更新

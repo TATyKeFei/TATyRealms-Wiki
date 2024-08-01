@@ -30,12 +30,19 @@
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 
-  <!--页脚-->
-  <script src="./plugins/footer.js">
+  <!--TAB-->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1">
     window.$docsify = {
-      loadFooter: true,
-      loadFooter: '_footer.md',
+      // ...
+      tabs: {
+        persist: true, // default
+        sync: true, // default
+        theme: 'classic', // default
+        tabComments: true, // default
+        tabHeadings: true // default
+      }
     };
+
   </script>
 
   <!--字数统计-->
@@ -79,6 +86,14 @@
       'flexible-alerts': {
         style: 'flat'
       }
+    };
+  </script>
+
+  <!--页脚-->
+  <script src="./plugins/footer.js">
+    window.$docsify = {
+      loadFooter: true,
+      loadFooter: '_footer.md',
     };
   </script>
 
