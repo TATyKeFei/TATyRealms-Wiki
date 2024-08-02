@@ -30,7 +30,7 @@ TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?me
 
 ## 会跑路吗?
 
-是的，我们是圈钱服，圈完钱就跑路 1s
+是的，我们是圈钱服。圈完钱就跑路
 
 ## TATyRealms 和 [Axolotland Gameing Club](https://www.mcax.cn/) 是什么关系?
 
