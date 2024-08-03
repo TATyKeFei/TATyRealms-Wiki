@@ -30,7 +30,7 @@ TATyRealms 还处于公测阶段，Wiki 并不完善并且随时会修改！！
 
 ## 会跑路吗?
 
-会的，🏃‍_________
+会的，我天天跑 500 米
 
 ## TATyRealms 和 [Axolotland Gameing Club](https://www.mcax.cn/) 是什么关系?
 
