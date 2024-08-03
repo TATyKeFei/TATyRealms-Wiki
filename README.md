@@ -1,4 +1,4 @@
-## 欢迎访问TATy Wiki
+## 欢迎访问 TATyRealms Wiki
 
 👉[官网地址](https://www.tatysmp.love)
 
