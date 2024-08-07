@@ -11,10 +11,11 @@
 | TATyKeFei            | 服主                                             | [<span class="icon-github"></span> Github](https://github.com/TATyKeFei)                        |
 | Bestcb               | 为 TATyRealms 提供了游戏服务器机子                 | [Axolotland 服务器](https://www.mcax.cn/)                                                        |
 | DSCYYDSSS            | 帮助主城建筑、僵尸末日村庄地图建筑                  |                                                                                                 |
-| 哈2哈哈哈3            | 精神支柱，让我继续把服开下的动力                    |                                                                                                 |
+| 哈2哈哈哈3            | 精神支柱，让我继续把服开下去的动力                  |                                                                                                 |
 | mengyihh             | 精神支柱、早期 TATySMP BE 时代的辅助指令师          |                                                                                                 |
 | giaojzf              | 帮助主城建筑、精神支柱、内测玩家                    |                                                                                                 |
 | XiaoruiHiHa2024      | 提供ui、物品草图、设计灵感、小部分wiki文档          | [<span class="icon-github"></span> Github](https://github.com/Xrui875)                          |
+| jhqwqmc              | 帮忙修复生存一区出生点卡顿 BUG                     |                                                                                                 |
 | TOTRYT               | 帮忙代购插件、内测玩家                             |                                                                                                 |
 
 > 最近更新：2024/7/31
