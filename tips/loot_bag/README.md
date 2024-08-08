@@ -12,10 +12,10 @@
 
 ### 展示
 
-![草稿](/tips/loot_bag/img/2.png)
+![草稿](./tips/loot_bag/img/2.png)
 
-![优化](/tips/loot_bag/img/3.png)
+![优化](./tips/loot_bag/img/3.png)
 
-![最终](/tips/loot_bag/img/4.png)
+![最终](./tips/loot_bag/img/4.png)
 
-![废稿](/tips/loot_bag/img/5.jpg)
+![废稿](./tips/loot_bag/img/5.jpg)
