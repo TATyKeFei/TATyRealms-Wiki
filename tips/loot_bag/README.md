@@ -1,27 +1,21 @@
 # 战利品袋
 
-##### 此物品还在测试中，不完善
-##### 此物品还在测试中，不完善
-##### 此物品还在测试中，不完善
-
-### 什么是战利品袋
-
 这是个帮助新手开荒的辅助补给，打怪可以掉落（暂时设定）
 
 ### 能开出什么?
 
-(还在测试，没决定)
+| 物品                     | 概率    |
+| :---                     | :---    |
+| 还在开发没做完            | 114514% |
 
-### 进化史
+# 画廊
 
-<img src="/tips/loot_bag/img/1.png">
+### 展示
 
-<img src="/tips/loot_bag/img/2.png">
+![草稿](/tips/loot_bag/img/2.png)
 
-<img src="/tips/loot_bag/img/3.png">
+![优化](/tips/loot_bag/img/3.png)
 
-<img src="/tips/loot_bag/img/4.png">
+![最终](/tips/loot_bag/img/4.png)
 
-### 废稿
-
-<img src="/tips/loot_bag/img/5.jpg">
+![废稿](/tips/loot_bag/img/5.jpg)
