@@ -13,3 +13,9 @@
 * 金锭 x6
 * 钻石 x2
 * 玻璃 x1
+
+## 使用效果
+
+使用后屏幕白屏，并出现魔镜的动画
+
+<img src="./equi/mirror/img/demo.gif">
