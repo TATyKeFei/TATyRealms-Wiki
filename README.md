@@ -6,8 +6,6 @@
 
 👉[社区论坛](https://bbs.tatysmp.love)
 
-![](https://api.loohpjames.com/serverbanner.png?ip=play.tatysmp.love&name=TATyRealms&offlinemessage=%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BB%B4%E6%8A%A4%E4%B8%AD&timezone=Asia/Shanghai)
-
 ## 关于 TATyRealms
 
 TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建
