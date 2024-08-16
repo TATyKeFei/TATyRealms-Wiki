@@ -40,7 +40,6 @@
 	* [魔镜](equi/mirror/README)
 	* [抓钩](equi/grapnel/README.md)
 	* [忍者套装](/equi/ninja/README)
-	* [潜幽守卫套装](/equi/warden/README.md)
 	* [铜套装](/equi/copper/README.md)
 
 * 小知识
