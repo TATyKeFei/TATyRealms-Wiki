@@ -35,19 +35,20 @@
 	* [创造世界](/World/world_creative)
 	* [游戏世界](/World/Arcade)
 
+* 武器装备
+	* [回旋镖](/equi/boomerang/README)
+	* [魔镜](equi/mirror/README)
+	* [抓钩](equi/grapnel/README.md)
+	* [忍者套装](/equi/ninja/README)
+	* [潜幽守卫套装](/equi/warden/README.md)
+	* [铜套装](/equi/copper/README.md)
+
 * 小知识
 	* [签到](/tips/signin/README)
 	* [聊天](/tisp/chat/README)
 	* [四叶草](/tips/four_leaf_clover/README.md)
 	* [战利品](tips/loot_bag/README.md)
 
-* 武器装备
-	* [回旋镖](/equi/boomerang/README)
-	* [魔镜](equi/mirror/README)
-	* [忍者套装](/equi/ninja/README)
-	* [潜幽守卫套装](/equi/warden/README.md)
-	* [铜套装](/equi/copper/README.md)
 
 * 开发中的东西
 	* [战利品袋](/tips/loot_bag/README.md)
-	* [太空](/Play/space/README.md)
