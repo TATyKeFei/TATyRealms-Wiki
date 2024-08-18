@@ -65,13 +65,27 @@
     };
   </script>
 
-  <!--最后修改时间-->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-lastmodified/index.min.js"></script>
+  <!--贡献者-->
+  <script src="//cdn.jsdelivr.net/npm/docsify-contributors@latest/dist/index.min.js"></script>
   <script>
     window.$docsify = {
-      lastModifiedText: {
-        '/': '最后修改时间：',
-      },
+      contributors: {
+        repo: 'TATyKeFei/TATyRealms-Wiki',
+        ignores: [],
+        style: {
+          color: '#ffffff',
+          bgColor: '#404040'
+        },
+        image: {
+          size: 30,
+          isRound: true,
+          margin: '0.5em'
+        },
+        load: {
+          isOpen: true,
+          color: "#009999"
+        }
+      }
     };
   </script>
 
