@@ -8,9 +8,9 @@
 
 | 贡献者                | 贡献内容                                         | 相关连接                                                                                         |
 | :---:                | :---                                             | :---                                                                                            |
-| TATyKeFei            | 服主                                             | [<span class="icon-github"></span> Github](https://github.com/TATyKeFei)                        |
+| TATyKeFei            | 服主                                             | [<span class="icon-github"></span> Github](https://github.com/TATyKeFei)                         |
 | Bestcb               | 为 TATyRealms 提供了游戏服务器机子                 | [Axolotland 服务器](https://www.mcax.cn/)                                                        |
-| DSCYYDSSS            | 帮助主城建筑、僵尸末日村庄地图建筑                  |                                                                                                 |
+| DSCYYDSSS            | 帮助主城建筑、僵尸末日村庄地图建筑                  | [<span class="icon-tiktok"></span>抖音](https://v.douyin.com/irXL9Pnt/)                          |
 | 哈2哈哈哈3            | 精神支柱，让我继续把服开下去的动力                  |                                                                                                 |
 | mengyihh             | 精神支柱、早期 TATySMP BE 时代的辅助指令师          |                                                                                                 |
 | giaojzf              | 帮助主城建筑、精神支柱、内测玩家                    |                                                                                                 |
