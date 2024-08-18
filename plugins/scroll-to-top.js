@@ -1,6 +1,6 @@
 var CONFIG = {
     auto: true,
-    text: "Top",
+    text: " ",
     right: 15,
     bottom: 15,
     offset: 500
@@ -30,14 +30,11 @@ var install = function(hook, vm) {
         scrollBtn.style.bottom = CONFIG.bottom + "px";
         scrollBtn.style.width = "50px";
         scrollBtn.style.height = "50px";
-        scrollBtn.style.background = "white";
+        scrollBtn.style.backgroundImage = "url(https://www.tatysmp.love/images/ui/fireworks_top.png)";
         scrollBtn.style.color = "#666";
-        scrollBtn.style.border = "1px solid #ddd";
-        scrollBtn.style.borderRadius = "4px";
         scrollBtn.style.lineHeight = "42px";
         scrollBtn.style.fontSize = "16px";
         scrollBtn.style.textAlign = "center";
-        scrollBtn.style.boxShadow = "0px 0px 6px #eee";
         scrollBtn.style.cursor = "pointer";
         var textNode = document.createTextNode(CONFIG.text);
         scrollBtn.appendChild(textNode);
