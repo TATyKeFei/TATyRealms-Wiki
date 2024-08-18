@@ -15,7 +15,7 @@
 | mengyihh             | 精神支柱、早期 TATySMP BE 时代的辅助指令师          |                                                                                                 |
 | giaojzf              | 帮助主城建筑、精神支柱、内测玩家                    |                                                                                                 |
 | XiaoruiHiHa2024      | 提供ui、物品草图、设计灵感、小部分wiki文档          | [<span class="icon-github"></span> Github](https://github.com/Xrui875)                          |
-| jhqwqmc              | 帮忙修复生存一区出生点卡顿 BUG                     |                                                                                                 |
+| jhqwqmc              | 帮忙修复生存一区出生点卡顿 BUG                     | [<span class="icon-github"></span> Github](https://github.com/jhqwqmc)                          |
 | TOTRYT               | 帮忙代购插件、内测玩家                             |                                                                                                 |
 
 > 最近更新：2024/8/8
