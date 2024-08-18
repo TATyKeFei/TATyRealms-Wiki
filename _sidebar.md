@@ -22,7 +22,6 @@
 	* [连锁采集](/Play/veinminer/veinminer)
 	* [酿酒](/Play/Brewery/HowPlay)
 	* [时装系统](/Play/CosPlay/README)
-	* [喷漆](/Play/Sprays/README)
 	* [表情包](/Play/emoji/README)
 	* [宠物](/Play/mcpets/README)
 	
@@ -47,6 +46,7 @@
 	* [聊天](/tisp/chat/README)
 	* [四叶草](/tips/four_leaf_clover/README.md)
 	* [战利品](tips/loot_bag/README.md)
+	* [喷漆](/tips/Sprays/README)
 
 
 * 开发中的东西
