@@ -2,7 +2,7 @@
 
 ## 四叶草
 
-四叶草是一个会生成在资源世界各处草坪上的叶子，拥有四个叶子所以被称作四叶草
+四叶草是一个会生成在[资源世界](./World/world_terra)各处草坪上的叶子，拥有四个叶子所以被称作四叶草
 
 据说还能带来幸运！
 
@@ -16,4 +16,4 @@
 
 ## 画廊
 
-![](https://www.tatysmp.love/images/about/miao.png)
+<img src="./tips/four_leaf_clover/img/demo">
