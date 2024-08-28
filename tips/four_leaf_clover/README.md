@@ -16,4 +16,4 @@
 
 ## 画廊
 
-<img src="./tips/four_leaf_clover/img/demo">
+<img src="./tips/four_leaf_clover/img/demo.png">
