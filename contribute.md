@@ -19,6 +19,10 @@
 | jhqwqmc              | 帮忙修复生存一区出生点卡顿 BUG                     | [<span class="icon-github"></span> Github](https://github.com/jhqwqmc)               |
 | TOTRYT               | 帮忙代购插件                                      |                                                                                      |
 
+# 贡献者有什么权益?
+
+可拥有贡献者专属称号
+
 > 最近更新：2024/8/22
 >
 > 编辑：TATyKeFei
