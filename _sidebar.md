@@ -38,6 +38,7 @@
 	* [回旋镖](/equi/boomerang/README)
 	* [魔镜](equi/mirror/README)
 	* [抓钩](equi/grapnel/README.md)
+	* [雨伞](/equi/umbrella/README.md)
 	* [忍者套装](/equi/ninja/README)
 	* [铜套装](/equi/copper/README.md)
 
