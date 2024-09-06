@@ -6,7 +6,7 @@
 
 # 制作材料
 
-<img src=".equi/umbrella/img/craft.jpg">
+<img src="./equi/umbrella/img/craft.jpg">
 
 ## 材料总需
 
@@ -21,7 +21,7 @@
 
 单击鼠标左键即可触发
 
-<img src=".equi/umbrella/img/spin.gif">
+<img src="./equi/umbrella/img/spin.gif">
 
 娱乐用，没有任何效果加成
 
@@ -29,7 +29,7 @@
 
 按住右键可以升天，且不消耗任何东西
 
-<img src=".equi/umbrella/img/fly.gif">
+<img src="./equi/umbrella/img/fly.gif">
 
 tips: 放在副手也可用
 
