@@ -48,6 +48,7 @@
 	* [四叶草](/tips/four_leaf_clover/README.md)
 	* [战利品](tips/loot_bag/README.md)
 	* [喷漆](/tips/Sprays/README)
+	* [背扛畜牧](/tips/carry/README)
 
 
 * 开发中的东西
