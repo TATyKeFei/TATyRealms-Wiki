@@ -44,7 +44,7 @@
 
 * 小知识
 	* [签到](/tips/signin/README)
-	* [聊天](/tisp/chat/README)
+	* [聊天](/tips/chat/README)
 	* [四叶草](/tips/four_leaf_clover/README.md)
 	* [战利品](tips/loot_bag/README.md)
 	* [喷漆](/tips/Sprays/README)
