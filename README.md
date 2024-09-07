@@ -2,9 +2,7 @@
 
 本 wiki网站 的内容随时会改，请以游戏内实装为准
 
-👉[官网地址](https://www.tatysmp.love)
-
-👉[社区论坛](https://bbs.tatysmp.love)
+👉[官网地址](https://www.tatysmp.love)  👉[社区论坛](https://bbs.tatysmp.love)
 
 ## 关于 TATyRealms
 
@@ -16,7 +14,7 @@ TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?me
 
 ## 帮助我完成Wiki
 
-TATyRealms 还处于公测阶段，Wiki 并不完善并且随时会修改！！
+TATyRealms 还处于建设阶段，Wiki 并不完善并且随时会修改！！
 
 你可以来 [Github仓库](https://github.com/TATyKeFei/TATyRealms-Wiki) 页面 fork 这个 wiki ，然后在 github 通过打开拉取请求帮助完善 wiki
 
@@ -30,7 +28,7 @@ TATyRealms 还处于公测阶段，Wiki 并不完善并且随时会修改！！
 
 ## 会跑路吗?
 
-会的，我天天跑 500 米
+会的，我天天跑步
 
 ## TATyRealms 和 [Axolotland Gameing Club](https://www.mcax.cn/) 是什么关系?
 
