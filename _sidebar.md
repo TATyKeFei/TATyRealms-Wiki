@@ -22,7 +22,6 @@
 	* [连锁采集](/Play/veinminer/veinminer)
 	* [酿酒](/Play/Brewery/HowPlay)
 	* [时装系统](/Play/CosPlay/README)
-	* [表情包](/Play/emoji/README)
 	* [宠物](/Play/mcpets/README)
 	
 * 世界
