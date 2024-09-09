@@ -8,11 +8,21 @@
 
 TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建
 
-一个公益服无氪金项目 + 服主纯爱发癫的服务器
+一个公益服无氪金项目 + 服主纯爱发癫的 Minecraft Java 服务器
 
 经理了服主几年的更新调教，还在不断完善优化
 
 > 你知道吗? TATyKeFei 以前巅峰时期一天更新9次，一周三次大更新
+
+## 如何加入 TATyRealms ?
+
+第一步: 拥有 Minecraft Java 正版账号
+
+第二步: 填写[服务器问卷审核](https://wj.qq.com/s2/14086269/f07e/)
+
+第三步: 等待审核通过留意邮箱通知
+
+审核通过后即可按照邮箱内邮件提示加入 TATyRealms 了!
 
 ## 帮助我完成Wiki
 
