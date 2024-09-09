@@ -26,16 +26,19 @@ var install = function(hook, vm) {
         scrollBtn.style.display = CONFIG.auto ? "none" : "block";
         scrollBtn.style.overflow = "hidden";
         scrollBtn.style.position = "fixed";
-        scrollBtn.style.right = CONFIG.right + "px";
-        scrollBtn.style.bottom = CONFIG.bottom + "px";
-        scrollBtn.style.width = "50px";
-        scrollBtn.style.height = "50px";
+        scrollBtn.style.right = "15px";
+        scrollBtn.style.bottom = "85px";
+        scrollBtn.style.width = "60px";
+        scrollBtn.style.height = "60px";
         scrollBtn.style.backgroundImage = "url(https://www.tatysmp.love/images/ui/fireworks_top.png)";
-        scrollBtn.style.color = "#666";
-        scrollBtn.style.lineHeight = "42px";
-        scrollBtn.style.fontSize = "16px";
+        scrollBtn.style.lineHeight = "60px";
+        scrollBtn.style.fontSize = "24px";
         scrollBtn.style.textAlign = "center";
         scrollBtn.style.cursor = "pointer";
+        scrollBtn.style.textTransform = "uppercase";
+        scrollBtn.style.zIndex = "100";
+        scrollBtn.style.cursor = "pointer";
+
         var textNode = document.createTextNode(CONFIG.text);
         scrollBtn.appendChild(textNode);
         document.body.appendChild(scrollBtn);

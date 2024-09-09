@@ -28,7 +28,7 @@ TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?me
 
 TATyRealms 还处于建设阶段，Wiki 并不完善并且随时会修改！！
 
-服务器只有服主一人在更新，人力资源较少因此文档会有遗漏
+服务器只有服主一人在更新且服主沉迷于第五人格，人力资源较少因此文档会有遗漏
 
 你可以来 [Github仓库](https://github.com/TATyKeFei/TATyRealms-Wiki) 页面 fork 这个 wiki ，然后在 github 通过打开拉取请求帮助完善 wiki
 

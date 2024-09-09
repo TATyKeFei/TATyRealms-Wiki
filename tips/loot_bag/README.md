@@ -12,10 +12,8 @@
 
 ### 展示
 
-![草稿](./tips/loot_bag/img/2.png)
+![](img/5.jpg)
 
-![优化](./tips/loot_bag/img/3.png)
-
-![最终](./tips/loot_bag/img/4.png)
-
-![废稿](./tips/loot_bag/img/5.jpg)
+> 最近更新: 2024/9/9
+>
+> 编辑: TATyKeFei
