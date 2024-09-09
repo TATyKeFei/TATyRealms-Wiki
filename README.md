@@ -1,8 +1,8 @@
 ## 欢迎访问 TATyRealms Wiki
 
-本 wiki网站 的内容随时会改，请以游戏内实装为准
+本 wiki网站 的内容随时会改，请以游戏内实装以及更新日志为准
 
-👉[官网地址](https://www.tatysmp.love)  👉[社区论坛](https://bbs.tatysmp.love)
+👉[官网地址](https://www.tatysmp.love) 👉[社区论坛](https://bbs.tatysmp.love) 👉[更新日志](https://bbs.tatysmp.love/index.php?forums/tatysmp%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.4/)
 
 ## 关于 TATyRealms
 
@@ -16,15 +16,18 @@ TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?me
 
 TATyRealms 还处于建设阶段，Wiki 并不完善并且随时会修改！！
 
+服务器只有服主一人在更新，人力资源较少因此文档会有遗漏
+
 你可以来 [Github仓库](https://github.com/TATyKeFei/TATyRealms-Wiki) 页面 fork 这个 wiki ，然后在 github 通过打开拉取请求帮助完善 wiki
 
+> [!NOTE]
 > 如果你想帮我编写，务必在编写前发个 Issues 让我知道!! 并告诉我你在编写哪个部分
 >
 > 如果你想帮我编写，务必在编写前发个 Issues 让我知道!! 并告诉我你在编写哪个部分
 >
 > 如果你想帮我编写，务必在编写前发个 Issues 让我知道!! 并告诉我你在编写哪个部分
 
-有关文档编写规范请看 [这里](https://wiki.tatysmp.love/#/norm)
+有关文档编写规范请看 [这里](https://wiki.tatysmp.love/#/norm) 
 
 ## 会跑路吗?
 
