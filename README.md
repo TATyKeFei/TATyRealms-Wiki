@@ -2,7 +2,7 @@
 
 本 wiki网站 的内容随时会改，请以游戏内实装以及更新日志为准
 
-👉[官网地址](https://www.tatysmp.love) 👉[社区论坛](https://bbs.tatysmp.love) 👉[更新日志](https://bbs.tatysmp.love/index.php?forums/tatysmp%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.4/)
+🏠[官网地址](https://www.tatysmp.love) 💌[社区论坛](https://bbs.tatysmp.love) 📝[更新日志](https://bbs.tatysmp.love/index.php?forums/tatysmp%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.4/)
 
 ## 关于 TATyRealms
 
