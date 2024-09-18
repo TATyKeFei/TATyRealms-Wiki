@@ -4,6 +4,8 @@
 
 🏠[官网地址](https://www.tatysmp.love) 💌[社区论坛](https://bbs.tatysmp.love) 📝[更新日志](https://bbs.tatysmp.love/index.php?forums/tatysmp%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.4/)
 
+建议使用 Edge、chrome 浏览器访问
+
 ## 关于 TATyRealms
 
 TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建
@@ -28,7 +30,7 @@ TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?me
 
 TATyRealms 还处于建设阶段，Wiki 并不完善并且随时会修改！！
 
-服务器只有服主一人在更新且服主沉迷于第五人格，人力资源较少因此文档会有遗漏
+服务器只有服主一人在更新维护。由于服主沉迷于第五人格，因此文档会有遗漏
 
 你可以来 [Github仓库](https://github.com/TATyKeFei/TATyRealms-Wiki) 页面 fork 这个 wiki ，然后在 github 通过打开拉取请求帮助完善 wiki
 
@@ -51,6 +53,6 @@ TATyRealms 还处于建设阶段，Wiki 并不完善并且随时会修改！！
 
 所以你可能会在他们那里看到些 TATyRealms 相关的资源
 
-> 最近更新: 2024/9/9
+> 最近更新: 2024/9/18
 >
 > 编辑: TATyKeFei
