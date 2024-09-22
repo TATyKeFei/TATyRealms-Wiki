@@ -10,7 +10,7 @@
 
 注意中间有个玻璃!!!
 
-<img src="./equi/mirror/img/craft.jpg">
+<img src="./tools/mirror/img/craft.jpg">
 
 ### 材料总需
 
@@ -22,7 +22,7 @@
 
 使用后屏幕白屏，并出现魔镜的动画
 
-<img src="./equi/mirror/img/demo.gif">
+<img src="./tools/mirror/img/demo.gif">
 
 > 最近更新 2024/8/14
 >

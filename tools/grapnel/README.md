@@ -8,7 +8,7 @@
 
 > 使用工作台合成
 
-<img src="./equi/grapnel/img/craft.jpg">
+<img src="./tools/grapnel/img/craft.jpg">
 
 ### 材料总需
 
@@ -30,7 +30,7 @@
 
 ## 使用演示
 
-<img src="./equi/grapnel/img/demo.gif">
+<img src="./tools/grapnel/img/demo.gif">
 
 > 最近更新 2024/8/16
 >

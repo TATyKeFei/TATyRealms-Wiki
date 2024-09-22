@@ -6,7 +6,7 @@
 
 # 制作材料
 
-<img src="./equi/umbrella/img/craft.jpg">
+<img src="./tools/umbrella/img/craft.jpg">
 
 ## 材料总需
 
@@ -23,7 +23,7 @@
 
 娱乐用，没有任何效果加成
 
-<img src="./equi/umbrella/img/spin.gif">
+<img src="./tools/umbrella/img/spin.gif">
 
 ## 起飞
 
@@ -31,7 +31,7 @@
 
 小提示: 放在副手也可用
 
-<img src="./equi/umbrella/img/fly.gif">
+<img src="./tools/umbrella/img/fly.gif">
 
 # 小唠嗑
 

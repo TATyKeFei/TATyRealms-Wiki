@@ -35,13 +35,15 @@
 
 * 武器装备
 	* [回旋镖](/equi/boomerang/README)
-	* [魔镜](equi/mirror/README)
-	* [抓钩](equi/grapnel/README.md)
-	* [镘刀](equi/trowel/README.md)
-	* [雨伞](/equi/umbrella/README.md)
 	* [忍者套装](/equi/ninja/README)
 	* [铜套装](/equi/copper/README.md)
 
+* 工具类
+	* [魔镜](tools/mirror/README)
+	* [抓钩](tools/grapnel/README.md)
+	* [镘刀](tools/trowel/README.md)
+	* [旋转扳手](tools/rotation_wrench/README.md)
+	* [雨伞](/tools/umbrella/README.md)
 * 小知识
 	* [签到](/tips/signin/README)
 	* [聊天](/tips/chat/README)

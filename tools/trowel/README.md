@@ -4,7 +4,7 @@
 
 ## 制作配方
 
-<img src="./equi/trowel/img/craft.jpg">
+<img src="./tools/trowel/img/craft.jpg">
 
 ### 材料总需
 
@@ -17,4 +17,4 @@
 
 常见用法有铺不规则路、不规则墙面、遗迹建筑等等
 
-<img src="./equi/trowel/img/demo.gif">
+<img src="./tools/trowel/img/demo.gif">
