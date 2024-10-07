@@ -12,7 +12,7 @@
 
 ## 使用教程
 
-<!--img src="/Play/emoji/img/demo.jpg" / -->
+<img src="/tips/chat/demo.jpg" />
 
 只要聊天栏输入 “/emoji” 后空格按 tab 就能选择表情了
 

@@ -4,7 +4,7 @@
 
 ## 服务器有bug如何反馈
 
-前往[TATyBBS](https://bbs.tatysmp.love/index.php?forums/bug%E5%8F%8D%E9%A6%88.5/)反馈
+前往[TATyBBS](https://bbs.tatysmp.love/index.php?forums/bug%E5%8F%8D%E9%A6%88.5/)反馈，或者QQ群找服主
 
 ## 服务器会换挡吗?
 
@@ -18,12 +18,12 @@ TATyRealms 的旧名，TATySMP 取名由 TATy(团队代号) + SMP(多人生存) 
 
 但如今 TATySMP 经过更新迭代已经不止包含多人生存的含义了，所以我决定将 TATySMP 改名 TATy(团队代号) + Realms(领域)
 
-对我来说，这次改名是 TATyRealms 历史重要的转折点，因为更新
-
 > 由于早期历史遗留，你可能还会看到早期测试阶段 TATySMP 的东西和不能动的屎山
 
 ## 上线不知道做什么怎么办?
 
-说明你在生活中已经找到其他更快乐的事情，不再局限于MC了。不用在意，年纪轻轻多享受生活，老了后别忘了回来看看你的伟大足迹~
+说明你在生活中已经找到其他更快乐的事情，不再局限于MC了
+
+不用在意，年纪轻轻多享受生活，老了后别忘了回来看看你的伟大足迹~
 
 ## (待补充)
