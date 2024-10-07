@@ -8,7 +8,7 @@
 
 | 贡献玩家              | 贡献内容                                         | 相关连接                                                                              |
 | :---:                | :---                                             | :---                                                                                 |
-| TATyKeFei            | 服主                                             | [<span class="icon-github"></span> Github](https://github.com/TATyKeFei)             |
+| TATyKeFei            | 提供美术资源、维护、策划、设计、模型                | [<span class="icon-github"></span> Github](https://github.com/TATyKeFei)             |
 | Bestcb               | 为 TATyRealms 提供了游戏服务器机子                 | [Axolotland 服务器](https://www.mcax.cn/)                                            |
 | dong20060409         | 帮助服务器建筑许多建筑                             |                                                                                      |
 | DSCYYDSSS            | 帮助主城建筑、小游戏僵尸末日村庄地图建筑             | [<span class="icon-tiktok"></span>抖音](https://v.douyin.com/irXL9Pnt/)              |
@@ -27,10 +27,10 @@
 
 # 如何为 TATyRealms 贡献?
 
-如果你会些像素画、建模、编写代码、编写wiki等等..(擅长命令方块除外)
+如果你会些像素画、建模、编写代码、编写wiki等等..
 
 都可以为 TATyRealms 贡献，在q群找服主(群主)即可
 
-> 最近更新：2024/9/7
+> 最近更新：2024/10/8
 >
 > 编辑：TATyKeFei
