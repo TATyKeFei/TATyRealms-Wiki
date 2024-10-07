@@ -10,9 +10,9 @@
 
 TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建
 
-一个原版 无MOD 的公益服务器无氪金项目
+一个原版 无MOD 的无氪金项目公益服务器
 
-服主纯爱发癫的 Minecraft Java 服务器
+努力在原版客户端的情况下做出优质的效果
 
 经历了服主几年的更新调整，还在不断完善优化
 
