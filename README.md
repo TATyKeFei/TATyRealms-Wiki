@@ -8,6 +8,8 @@
 
 ## 关于 TATyRealms
 
+TATyRealms 遵循 [Minecraft EULA](https://www.minecraft.net/zh-hans/eula) 协议
+
 TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建
 
 一个原版 无MOD 的无氪金项目公益服务器
