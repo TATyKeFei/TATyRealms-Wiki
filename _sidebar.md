@@ -19,7 +19,11 @@
 		- [肥料](/Play/Corps/fertilizer.md)
 	- [空投](/Play/CrazyEnvoys/README)
 	- [钓鱼](/Play/fishing/README)
-		- [鱼竿](/Play/fishing/rod/README)
+		* 图腾
+		* 鱼类
+		* 鱼竿
+			- [熔岩钓竿](/Play/fishing/rod/lava_rod/README)
+			- [南瓜钓竿](/Play/fishing/rod/pumpkin_rod/README)
 	- [附魔系统](/Play/enchants/README.md)
 	- [连锁采集](/Play/veinminer/veinminer)
 	- [酿酒](/Play/Brewery/HowPlay)
