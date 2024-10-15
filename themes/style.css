@@ -629,9 +629,6 @@ body {
 .markdown-section h2,
 .markdown-section h3,
 .markdown-section h4,
-.markdown-section strong {
-  font-weight: 600;
-}
 .markdown-section a {
   color: #ea6f5a;
   color: var(--theme-color, #ea6f5a);
