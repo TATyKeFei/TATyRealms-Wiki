@@ -55,7 +55,6 @@
 	- [聊天](/tips/chat/README)
 	- [四叶草](/tips/four_leaf_clover/README.md)
 	- [战利品](tips/loot_bag/README.md)
-	- [喷漆](/tips/Sprays/README)
 	- [背扛实体](/tips/carry/README)
 
 
