@@ -10,6 +10,8 @@
 
 建议使用 Edge、chrome PC浏览器访问
 
+懒得适配手机浏览器了，可能会有些显示问题
+
 ## 关于 TATyRealms
 
 TATyRealms 遵循 [Minecraft EULA](https://www.minecraft.net/zh-hans/eula) 协议
@@ -42,8 +44,10 @@ TATyRealms 还处于建设阶段，Wiki 并不完善并且随时会修改！！
 
 > [!NOTE]
 > 如果你想帮我编写，务必在编写前发个 Issues 让我知道!! 并告诉我你在编写哪个部分
-
-有关文档编写规范请看 [这里](https://wiki.tatysmp.love/#/norm) 
+> 
+> 在此非常感谢你们为 TATyRealms 的贡献!
+>
+> 有关文档编写规范请看 [这里](https://wiki.tatysmp.love/#/norm) 
 
 ## TATyRealms 和 [Axolotland Gameing Club](https://www.mcax.cn/) 是什么关系?
 
@@ -53,6 +57,6 @@ TATyRealms 还处于建设阶段，Wiki 并不完善并且随时会修改！！
 
 如果你想玩纯原版可以去那里看看
 
-> 最近更新: 2024/10/14
+> 最近更新: 2024/10/16
 >
 > 编辑: TATyKeFei
