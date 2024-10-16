@@ -16,11 +16,17 @@
 
 尝试切换其他渲染器，还不行把客户端日志发私发给服主
 
+## 盔甲自定义纹理失效
+
+别装 optifine! 别装 optifine! 别装 optifine!
+
+<img src="./Help/optifine.jpg" width="400px" />
+
 ## 游戏卡顿
 
 由于服务器自定义物品以及方块导致原版客户端性能低下，建议用优化 mod 可有效提升帧数
 
-建议用 fabric+化学三件套MOD，较不推荐 forge+optifine (话说高版本居然还有人用 optifine)
+建议用 fabric+化学三件套MOD，极其不推荐 optifine
 
 如果仍然卡顿，请将卡顿位置以及设备配置报告给服主或者在论坛反馈
 
