@@ -4,11 +4,9 @@
 
 ## 如何进入时装系统
 
-你可通过菜单选择衣柜进入，也可以通过在主城前往 时装商店(CosShop) 二楼进入时装编辑状态
+你可通过新版菜单选择时装进入，也可以通过在主城前往 时装商店(CosShop) 二楼进入时装编辑状态
 
-<img src="./Play/CosPlay/img/UI.jpg" width="400px">
-
-<img src="./Play/CosPlay/img/demo.png" width="400px">
+可以自由更换帽子、背饰、手杖、气球、喷漆
 
 ## 如何操作?
 
