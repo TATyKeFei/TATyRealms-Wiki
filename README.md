@@ -2,6 +2,8 @@
 
 本 wiki 内容较多且随时会改且不完善，请以游戏内实装以及更新日志为准
 
+有些较好理解不需要文档辅助理解的内容不会写在wiki
+
 🏠[官网地址](https://www.tatysmp.love) - 官网主页面
 
 💌[社区论坛](https://bbs.tatysmp.love) - 玩家社区讨论反馈
@@ -18,7 +20,7 @@ TATyRealms 遵循 [Minecraft EULA](https://www.minecraft.net/zh-hans/eula) 协�
 
 TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建
 
-一个原版 无MOD 的无氪金项目公益服务器
+一个原版 无MOD 的无氪金项目资源包公益服务器
 
 经历了服主几年的更新调整，还在不断完善优化
 
