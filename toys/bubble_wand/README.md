@@ -6,7 +6,13 @@
 
 ## 合成配方
 
+<img src="./toys/bubble_wand/craft.jpg" />
 
+### 材料总需
+
+* 纸 x2
+* 铁锭 x2
+* 木棍 x1
 
 ## 特性
 
