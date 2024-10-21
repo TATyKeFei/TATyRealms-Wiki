@@ -3,7 +3,10 @@
     - [支持服务器](donate.md)
 	- [贡献者名单](contribute.md)
 	- [文档编写规范](norm.md)
-	- [玩家协议](agreement.md)
+
+* 规则
+	- [玩家协议](./rule/agreement.md)
+	- [新玩家保护期](./rule/NewPlayerProtectionPeriod.md)
 
 * 疑难解答
     - [常见问题](/Help/help.md)
