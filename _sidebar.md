@@ -51,6 +51,10 @@
 	- [镘刀](tools/trowel/README.md)
 	- [旋转扳手](tools/rotation_wrench/README.md)
 	- [雨伞](/tools/umbrella/README.md)
+
+* 玩具类
+	- [泡泡棒](/toys/bubble_wand/README.md)
+
 * 小知识
 	- [签到](/tips/signin/README)
 	- [聊天](/tips/chat/README)
