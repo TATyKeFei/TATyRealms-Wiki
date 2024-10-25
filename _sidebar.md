@@ -54,6 +54,11 @@
 	- [镘刀](tools/trowel/README.md)
 	- [旋转扳手](tools/rotation_wrench/README.md)
 	- [雨伞](/tools/umbrella/README.md)
+	- [传送卷轴](/tools/transfer_reel/README.md)
+	- [矿物探测仪](/tools/mineral_detector/README.md)
+
+* 食物类
+	- [泡泡糖](/food/bubble_gum/README.md)
 
 * 玩具类
 	- [泡泡棒](/toys/bubble_wand/README.md)
