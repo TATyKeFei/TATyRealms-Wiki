@@ -28,6 +28,10 @@ TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?me
 
 ## 如何加入 TATyRealms ?
 
+> [!tips]
+> 游玩本服建议在流畅的网络环境游玩
+> 因为发包较多对网络和设备性能都有要求
+
 第一步: 拥有 Minecraft Java 正版账号
 
 第二步: 填写[白名单审核问卷](https://wj.qq.com/s2/14086269/f07e/)
