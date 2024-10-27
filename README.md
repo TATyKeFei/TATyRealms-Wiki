@@ -2,7 +2,7 @@
 
 本 wiki 内容较多且随时会改且不完善，请以游戏内实装以及更新日志为准
 
-有些较好理解不需要文档辅助理解的内容不会写在wiki
+有些正常人类能理解不需要文档辅助理解的内容不会写在wiki
 
 🏠[官网地址](https://www.tatysmp.love) - 官网主页面
 
@@ -16,9 +16,11 @@
 
 ## 关于 TATyRealms
 
-TATyRealms 遵循 [Minecraft EULA](https://www.minecraft.net/zh-hans/eula) 协议
+TATyRealms 遵循 [Minecraft EULA](https://www.minecraft.net/zh-hans/eula) 协议，还处于发展中状态
 
 TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建
+
+服务器的定位： 原版Plus + 娱乐 + 生存
 
 一个原版 无MOD 的无氪金项目资源包公益服务器
 
@@ -63,6 +65,11 @@ TATyRealms 还处于建设阶段，Wiki 并不完善并且随时会修改！！
 
 如果你想玩纯原版可以去那里看看
 
-> 最近更新: 2024/10/16
+## 社区
+
+[<span class="icon-qq"></span> QQ交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=jitIMCaERhAimYIs7W8qfcBLq1BTz_gi&authKey=7Q9LdXrPYY%2F1%2BPodR3fWAwZDTN4nYso3laWtxQ3FpSQ8E%2BifuhwRXbzRXzVszvP2&noverify=0&group_code=960641960)
+[💌社区论坛](https://bbs.tatysmp.love)
+
+> 最近更新: 2024/10/27
 >
 > 编辑: TATyKeFei
