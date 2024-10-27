@@ -16,9 +16,11 @@
 
 ## 关于 TATyRealms
 
-TATyRealms 遵循 [Minecraft EULA](https://www.minecraft.net/zh-hans/eula) 协议，还处于发展中状态
+> TATyRealms 遵循 [Minecraft EULA](https://www.minecraft.net/zh-hans/eula) 协议
 
 TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建
+
+TATyRealms还处于开发中状态，当前已有 10+ 名玩家（我懒得宣传全靠玩家宣传）
 
 服务器的定位： 原版Plus + 娱乐 + 生存
 
@@ -30,7 +32,7 @@ TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?me
 
 ## 如何加入 TATyRealms ?
 
-> [!tips]
+> [!TIP]
 > 游玩本服建议在流畅的网络环境游玩
 > 因为发包较多对网络和设备性能都有要求
 
