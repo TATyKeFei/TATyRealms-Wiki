@@ -22,7 +22,7 @@
 
 手持矿物探测仪右键可以高亮显示 以你为中心的半径5格方块内 所有矿物，且其他人也可见
 
-<img src="./tools/mineral_detector/craft.jpg">
+<img src="./tools/mineral_detector/demo.gif">
 
 > 最近更新：2024/11/9
 >
