@@ -1,10 +1,5 @@
 ## 欢迎访问 TATyRealms Wiki
 
-> [!ATTENTION]
-> TATyRealms 还处于开发中状态，当前还属于半成品服务器
-> 
-> 因此会看到很多未完工未完善的内容！当前内容不代表服务器最终内容
-
 本 wiki 内容较多且随时会改且不完善，请以游戏内实装以及更新日志为准
 
 有些正常人类能理解不需要文档辅助理解的内容不会写在wiki
@@ -21,13 +16,16 @@
 
 ## 关于 TATyRealms
 
+> [!ATTENTION]
+> TATyRealms 还处于开发中状态，当前还属于半成品服务器
+> 
+> 因此会看到很多未完工未完善的内容！当前内容不代表服务器最终内容
+
 > TATyRealms 遵循 [Minecraft EULA](https://www.minecraft.net/zh-hans/eula) 协议
 
 TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建
 
 TATyRealms还处于开发中状态，当前已有 10+ 名玩家（我懒得宣传全靠玩家宣传）
-
-服务器的定位： 原版Plus + 娱乐 + 生存
 
 一个原版 无MOD 的无氪金项目资源包公益服务器
 
