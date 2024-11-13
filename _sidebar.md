@@ -4,7 +4,7 @@
 	- [贡献者名单](contribute.md)
 	- [文档编写规范](norm.md)
 
-* 规则
+* 规则协议
 	- [玩家协议](./rule/agreement.md)
 	- [新玩家保护期](./rule/NewPlayerProtectionPeriod.md)
 
