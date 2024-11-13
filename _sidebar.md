@@ -1,3 +1,7 @@
+> 带 * 表示开发中
+> 带 . 表示编写中
+> 带 ~ 表示已删除
+
 * 关于 TATyRealms
     - [TATyRealms Wiki](README.md)
     - [支持服务器](donate.md)
