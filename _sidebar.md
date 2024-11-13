@@ -1,7 +1,3 @@
-> 带 * 表示开发中
-> 带 . 表示编写中
-> 带 ~ 表示已删除
-
 * 关于 TATyRealms
     - [TATyRealms Wiki](README.md)
     - [支持服务器](donate.md)
@@ -78,3 +74,8 @@
 
 * 开发中的东西
 	- [战利品袋](/tips/loot_bag/README.md)
+
+> [!note]
+> 带 * 表示开发中
+> 带 . 表示编写中
+> 带 ~ 表示已删除
