@@ -70,6 +70,7 @@
 	- [签到](/tips/signin/README)
 	- [聊天](/tips/chat/README)
 	- [四叶草](/tips/four_leaf_clover/README.md)
-	- [+战利品袋](tips/loot_bag/README.md)
+	- [+ 战利品袋](tips/loot_bag/README.md)
 	- [背扛实体](/tips/carry/README)
 	- [称号](/tips/NameTag/README)
+		- [特殊称号](/tips/NameTag/Tag.md)
