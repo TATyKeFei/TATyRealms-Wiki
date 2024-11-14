@@ -30,9 +30,8 @@
 			- [南瓜钓竿](/Play/fishing/rod/pumpkin_rod/README)
 	- [附魔系统](/Play/enchants/README.md)
 	- [连锁采集](/Play/veinminer/veinminer)
-	- [酿酒](/Play/Brewery/HowPlay)
 	- [时装系统](/Play/CosPlay/README)
-	- [宠物](/Play/mcpets/README)
+	- [* 宠物](/Play/mcpets/README)
 	
 * 世界
 	- [旧主城](/World/old_spawn)
@@ -47,7 +46,7 @@
 	- [回旋镖](/equi/boomerang/README)
 	- [忍者套装](/equi/ninja/README)
 	- [铜套装](/equi/copper/README.md)
-	- [语文书](/equi/chinese_book/README.md)
+	- [* 语文书](/equi/chinese_book/README.md)
 
 * 工具类
 	- [魔镜](tools/mirror/README)
@@ -58,12 +57,15 @@
 	- [传送卷轴](/tools/transfer_reel/README.md)
 	- [矿物探测仪](/tools/mineral_detector/README.md)
 
+* 家具类
+	- [* 晴天娃娃](furniture/sunny_doll/README.md)
+
 * 食物类
 	- [泡泡糖](/food/bubble_gum/README.md)
 
 * 玩具类
 	- [泡泡棒](/toys/bubble_wand/README.md)
-	- [* 睿客五代](/toys/RuiKeWuDai/)
+	- [- 睿客五代](/toys/RuiKeWuDai/)
 
 * 小知识
 	- [签到](/tips/signin/README)
