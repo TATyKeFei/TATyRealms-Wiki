@@ -18,7 +18,6 @@
 	- [服务器特性](Play/peculiarity/README)
 	- [粘液科技](/Play/Slimefun/Slimefun)
 	- [通行证](/Play/battlepass/README)
-	- [称号](/Play/NameTag/README)
 	- [作物](/Play/Corps/README)
 		- [肥料](/Play/Corps/fertilizer.md)
 	- [空投](/Play/CrazyEnvoys/README)
@@ -73,3 +72,4 @@
 	- [四叶草](/tips/four_leaf_clover/README.md)
 	- [+战利品袋](tips/loot_bag/README.md)
 	- [背扛实体](/tips/carry/README)
+	- [称号](/tips/NameTag/README)
