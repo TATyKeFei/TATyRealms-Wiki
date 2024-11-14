@@ -63,6 +63,7 @@
 
 * 玩具类
 	- [泡泡棒](/toys/bubble_wand/README.md)
+	- [* 睿客五代](/toys/RuiKeWuDai/)
 
 * 小知识
 	- [签到](/tips/signin/README)
