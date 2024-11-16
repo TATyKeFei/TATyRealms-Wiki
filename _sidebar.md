@@ -60,6 +60,7 @@
 	- [* 晴天娃娃](furniture/sunny_doll/README.md)
 
 * 食物类
+	- [应急食品](/food/paimon/README.md)
 	- [泡泡糖](/food/bubble_gum/README.md)
 
 * 玩具类
