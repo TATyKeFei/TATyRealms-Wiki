@@ -64,7 +64,8 @@
 
 * 玩具类
 	- [泡泡棒](/toys/bubble_wand/README.md)
-	- [- 睿客五代](/toys/RuiKeWuDai/)
+	- [- 睿客五代](/toys/RuiKeWuDai/README.md)
+	- [律师微章](toys/attorney_badge/README.md)
 
 * 小知识
 	- [签到](/tips/signin/README)

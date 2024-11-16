@@ -23,7 +23,7 @@
 
 > TATyRealms 遵循 [Minecraft EULA](https://www.minecraft.net/zh-hans/eula) 协议
 
-TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建
+TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建的狗屎垃圾服务器
 
 TATyRealms还处于开发中状态，当前已有 10+ 名玩家（我懒得宣传全靠玩家宣传）
 
