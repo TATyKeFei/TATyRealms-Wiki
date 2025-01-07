@@ -22,6 +22,10 @@
 
 <img src="./Help/optifine.jpg" width="400px" />
 
+## 动作的人物模型纹理渲染不正确
+
+<img src="./Help/a.png" width="400px" />
+
 ## 游戏卡顿
 
 由于服务器自定义物品以及方块导致原版客户端性能低下，建议用优化 mod 可有效提升帧数
