@@ -45,6 +45,7 @@
 	- [回旋镖](/equi/boomerang/README)
 	- [忍者套装](/equi/ninja/README)
 	- [铜套装](/equi/copper/README.md)
+	- [跳跳鞋](/equi/jump_boot/README.md)
 	- [* 语文书](/equi/chinese_book/README.md)
 
 * 工具类

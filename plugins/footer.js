@@ -2,7 +2,7 @@
     "use strict";
     window.$docsify = window.$docsify || {}, window.$docsify.plugins = (window.$docsify.plugins || []).concat((function(o, f) {
         f.config.footer;
-        let e = f.config.footer && f.config.footer.copy ? f.config.footer.copy : "<span>&copy; TATyRealms 2021 - 2024 </span>",
+        let e = f.config.footer && f.config.footer.copy ? f.config.footer.copy : "<span>&copy; TATyRealms 2021 - 2025 </span>",
             t = f.config.footer && f.config.footer.auth ? f.config.footer.auth : '<span>本Wiki网站基于 <a href="https://github.com/docsifyjs/docsify" target="_blank" rel="noreferrer" rel="noopener">docsify</a>.</span>',
             c = f.config.footer && f.config.footer.style ? `style="${f.config.footer.style}"` : "",
             n = f.config.footer && f.config.footer.class ? `class="${f.config.footer.class}"` : "";
