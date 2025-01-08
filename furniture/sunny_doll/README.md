@@ -10,7 +10,16 @@
 
 ## 制作配方
 
-sss
+通过工作台合成
+
+<img src="furniture/sunny_doll/craft.jpg" width="300px" />
+
+### 材料总需
+
+* 羽毛 x3
+* 线 x2
+* 羊毛 x1
+* 拴绳 x1
 
 ## 能力
 

@@ -60,7 +60,7 @@
 	- [传送枪](/tools/portal_gun/README.md)
 
 * 家具类
-	- [* 晴天娃娃](furniture/sunny_doll/README.md)
+	- [晴天娃娃](furniture/sunny_doll/README.md)
 
 * 食物类
 	- [应急食品](/food/paimon/README.md)
