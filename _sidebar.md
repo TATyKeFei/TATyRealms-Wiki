@@ -57,6 +57,7 @@
 	- [传送卷轴](/tools/transfer_reel/README.md)
 	- [矿物探测仪](/tools/mineral_detector/README.md)
 	- [魔术方块](/tools//magic_block/READMD.md)
+	- [传送枪](/tools/portal_gun/README.md)
 
 * 家具类
 	- [* 晴天娃娃](furniture/sunny_doll/README.md)
