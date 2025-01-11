@@ -13,6 +13,15 @@
     - [客户端常见问题](/Help/client.md)
     - [基岩版问题](/Help/BEHELP.md)
     - [新手攻略](/Help/strategy.md)
+	
+* 世界
+	- [旧主城](/World/old_spawn)
+	- [主城](/World/spawn)
+	- [生存一区](/World/otd_doungeon)
+	- [生存二区](/World/world)
+	- [资源世界](/World/world_terra)
+	- [创造世界](/World/world_creative)
+	- [游戏世界](/World/Arcade)
 		
 * 玩法类
 	- [服务器特性](Play/peculiarity/README)
@@ -31,15 +40,10 @@
 	- [连锁采集](/Play/veinminer/veinminer)
 	- [时装系统](/Play/CosPlay/README)
 	- [* 宠物](/Play/mcpets/README)
-	
-* 世界
-	- [旧主城](/World/old_spawn)
-	- [主城](/World/spawn)
-	- [生存一区](/World/otd_doungeon)
-	- [生存二区](/World/world)
-	- [资源世界](/World/world_terra)
-	- [创造世界](/World/world_creative)
-	- [游戏世界](/World/Arcade)
+
+* 材料类
+
+    - [魔术粉](/materials/magic_powder/README.md)
 
 * 武器装备
 	- [回旋镖](/equi/boomerang/README)
@@ -56,8 +60,8 @@
 	- [雨伞](/tools/umbrella/README.md)
 	- [传送卷轴](/tools/transfer_reel/README.md)
 	- [矿物探测仪](/tools/mineral_detector/README.md)
-	- [魔术方块](/tools//magic_block/READMD.md)
 	- [时间控制器](/tools/time_controller/README.md)
+	- [魔术方块](/tools/magic_block/READMD.md)
 	- [传送枪](/tools/portal_gun/README.md)
 
 * 家具类
@@ -69,14 +73,14 @@
 
 * 玩具类
 	- [泡泡棒](/toys/bubble_wand/README.md)
-	- [- 睿客五代](/toys/RuiKeWuDai/README.md)
+	- [睿客五代 (已删除)](/toys/RuiKeWuDai/README.md)
 	- [律师微章](toys/attorney_badge/README.md)
 
 * 小知识
 	- [签到](/tips/signin/README)
 	- [聊天](/tips/chat/README)
 	- [四叶草](/tips/four_leaf_clover/README.md)
-	- [+ 战利品袋](tips/loot_bag/README.md)
+	- [战利品袋](tips/loot_bag/README.md)
 	- [背扛实体](/tips/carry/README)
 	- [称号](/tips/NameTag/README)
 		- [特殊称号](/tips/NameTag/Tag.md)
