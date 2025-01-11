@@ -25,7 +25,6 @@
 		
 * 玩法类
 	- [服务器特性](Play/peculiarity/README)
-	- [粘液科技](/Play/Slimefun/Slimefun)
 	- [通行证](/Play/battlepass/README)
 	- [作物](/Play/Corps/README)
 		- [肥料](/Play/Corps/fertilizer.md)
@@ -63,6 +62,7 @@
 	- [时间控制器](/tools/time_controller/README.md)
 	- [魔术方块](/tools/magic_block/READMD.md)
 	- [传送枪](/tools/portal_gun/README.md)
+	- [猫耳](/tools/cat_ear/README.md)
 
 * 家具类
 	- [晴天娃娃](furniture/sunny_doll/README.md)
