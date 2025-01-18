@@ -20,8 +20,6 @@
 	- [生存一区](/World/otd_doungeon)
 	- [生存二区](/World/world)
 	- [资源世界](/World/world_terra)
-	- [创造世界](/World/world_creative)
-	- [游戏世界](/World/Arcade)
 		
 * 玩法类
 	- [服务器特性](Play/peculiarity/README)
