@@ -10,6 +10,11 @@
 
 # 使用表情包聊天
 
+> [!TIP]
+> 这个是重绘的新版形象，下面那个看看怎么用就好不要看了好丑啊啊啊啊
+>
+> <img src="/tips/chat/emoji.jpg" />
+
 ## 使用教程
 
 <img src="/tips/chat/demo.jpg" />
