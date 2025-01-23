@@ -55,6 +55,7 @@
 	- [镘刀](tools/trowel/README.md)
 	- [旋转扳手](tools/rotation_wrench/README.md)
 	- [雨伞](/tools/umbrella/README.md)
+	- [末影收纳袋](/tools/ender_storage_bag/README.md)
 	- [传送卷轴](/tools/transfer_reel/README.md)
 	- [矿物探测仪](/tools/mineral_detector/README.md)
 	- [时间控制器](/tools/time_controller/README.md)
