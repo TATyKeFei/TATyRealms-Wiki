@@ -58,6 +58,7 @@
 	- [传送卷轴](/tools/transfer_reel/README.md)
 	- [矿物探测仪](/tools/mineral_detector/README.md)
 	- [时间控制器](/tools/time_controller/README.md)
+	- [便捷式工作台](/tools/portable_craft_table/README.md)
 	- [传送枪](/tools/portal_gun/README.md)
 	- [猫耳](/tools/cat_ear/README.md)
 
