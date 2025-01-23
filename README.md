@@ -14,13 +14,11 @@
 
 ## 关于 TATyRealms
 
-TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建的狗屎垃圾服务器
+TATyRealms(原 TATySMP) 由 “[TATyKeFei](https://bbs.tatysmp.love/index.php?members/tatykefei.1/)” 于2021年8月1日创建的服务器
 
-TATyRealms还处于开发中状态，当前已有 10+ 名玩家（我懒得宣传全靠玩家宣传）
+TATyRealms还处于开发中状态，很多不完整内容
 
-一个原版 无MOD 的无氪金项目资源包公益服务器
-
-经历了服主几年的更新调整，还在不断完善优化
+一个原版 无MOD 的无氪金项目资源包公益服务器，还在不断完善优化
 
 > [!ATTENTION]
 > TATyRealms 还处于开发中状态，当前还属于半成品服务器
@@ -44,7 +42,7 @@ TATyRealms还处于开发中状态，当前已有 10+ 名玩家（我懒得宣�
 
 审核通过后即可按照邮箱内邮件提示加入 TATyRealms 了!
 
-## 帮助我完成Wiki
+## 帮助我完善 Wiki
 
 TATyRealms 还处于建设阶段，Wiki 并不完善并且随时会修改！！
 
