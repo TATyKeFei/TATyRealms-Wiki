@@ -70,6 +70,7 @@
 	- [应急食品](/food/paimon/README.md)
 	- [泡泡糖](/food/bubble_gum/README.md)
 	- [黑暗料理](food/dark_cuisine/README.md)
+	- [拐杖糖](food/candy_cane/README.md)
 
 * 玩具类
 	- [泡泡棒](/toys/bubble_wand/README.md)
