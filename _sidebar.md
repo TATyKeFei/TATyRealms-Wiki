@@ -66,7 +66,7 @@
 * 家具类
 	- [晴天娃娃](furniture/sunny_doll/README.md)
 
-* 食物类
+* 饮食类
 	- [应急食品](/food/paimon/README.md)
 	- [泡泡糖](/food/bubble_gum/README.md)
 	- [黑暗料理](food/dark_cuisine/README.md)
