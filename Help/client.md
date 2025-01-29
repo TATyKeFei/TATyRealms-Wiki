@@ -6,11 +6,11 @@
 
 ## 有时进服会进到其他服务器?
 
-如果你使用 `play.tatysmp.love` 这个域名，可能会跑到 `axolotland 服务器`
+如果你使用 `play.tatysmp.love` 这个域名，可能会跑到 `axolotland` 服务器
 
 只需要换成这个指定端口就行了 `play.tatysmp.love:10308`
 
-## 资源包加载失败
+## 资源包加载失败被踢出服务器
 
 检查服务器列表编辑是否同意了下载资源包，不要用 Via 等跨版本协议 MOD 进入服务器
 
