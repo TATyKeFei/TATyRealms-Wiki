@@ -1,0 +1,116 @@
+/* 魔镜 */
+.item-mirror {
+    background-image: url(./item-icon/magic_mirror.png);
+    display: inline-block;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}
+
+/* 镘刀 */
+.item-trowel {
+    background-image: url(./item-icon/trowel.png);
+    display: inline-block;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}
+
+/* 矿物探测器 */
+.item-mineral_detectorl {
+    background-image: url(./item-icon/mineral_detector.png);
+    display: inline-block;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}
+
+/* 便捷式工作台 */
+.item-portable_craft_table {
+    background-image: url(./item-icon/portable_craft_table.png);
+    display: inline-block;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}
+
+/* 末影收纳袋 */
+.item-ender_storage_bag {
+    background-image: url(./item-icon/ender_storage_bag.png);
+    display: inline-block;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}
+
+/* 传送卷轴 */
+.item-transfer_reel {
+    background-image: url(./item-icon/transfer_reel.png);
+    display: inline-block;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}
+
+/* 时间控制器 */
+.item-time_controller {
+    background-image: url(./item-icon/time_controller.png);
+    display: inline-block;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}
+
+/* 拐杖糖 */
+.item-candy_cane {
+    background-image: url(./item-icon/candy_cane.png);
+    display: inline-block;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}
+
+/* 应急食品 */
+.item-paimon {
+    background-image: url(./item-icon/paimon.png);
+    display: inline-block;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}
+
+/* 黑暗料理 */
+.item-dark_cuisine {
+    background-image: url(./item-icon/dark_cuisine.png);
+    display: inline-block;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}
+
+/* 魔术粉 */
+.item-magic_powder {
+    background-image: url(./item-icon/magic_powder.png);
+    display: inline-block;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}
+
+/* 猫耳 */
+.item-cat_ear {
+    background-image: url(./item-icon/cat_ear.png);
+    display: inline-block;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}
+
+/* 回旋镖 */
+.item-boomerang {
+    background-image: url(./item-icon/boomerang.png);
+    display: inline-block;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}

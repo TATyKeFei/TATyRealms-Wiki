@@ -40,37 +40,37 @@
 
 * 材料类
 
-    - [魔术粉](/materials/magic_powder/README.md)
+    - [<span class="item-magic_powder"></span> 魔术粉](/materials/magic_powder/README.md)
 
 * 武器装备
-	- [回旋镖](/equi/boomerang/README)
+	- [<span class="item-boomerang"></span> 回旋镖](/equi/boomerang/README)
 	- [忍者套装](/equi/ninja/README)
 	- [铜套装](/equi/copper/README.md)
 	- [跳跳鞋](/equi/jump_boot/README.md)
 	- [* 语文书](/equi/chinese_book/README.md)
 
 * 工具类
-	- [魔镜](tools/mirror/README)
+	- [<span class="item-mirror"></span> 魔镜](tools/mirror/README)
 	- [抓钩](tools/grapnel/README.md)
-	- [镘刀](tools/trowel/README.md)
+	- [<span class="item-trowel"></span> 镘刀](tools/trowel/README.md)
 	- [旋转扳手](tools/rotation_wrench/README.md)
 	- [雨伞](/tools/umbrella/README.md)
-	- [末影收纳袋](/tools/ender_storage_bag/README.md)
-	- [传送卷轴](/tools/transfer_reel/README.md)
-	- [矿物探测仪](/tools/mineral_detector/README.md)
-	- [时间控制器](/tools/time_controller/README.md)
-	- [便捷式工作台](/tools/portable_craft_table/README.md)
+	- [<span class="item-ender_storage_bag"></span> 末影收纳袋](/tools/ender_storage_bag/README.md)
+	- [<span class="item-transfer_reel"></span> 传送卷轴](/tools/transfer_reel/README.md)
+	- [<span class="item-mineral_detectorl"></span> 矿物探测仪](/tools/mineral_detector/README.md)
+	- [<span class="item-time_controller"></span> 时间控制器](/tools/time_controller/README.md)
+	- [<span class="item-portable_craft_table"></span> 便捷式工作台](/tools/portable_craft_table/README.md)
 	- [传送枪](/tools/portal_gun/README.md)
-	- [猫耳](/tools/cat_ear/README.md)
+	- [<span class="item-cat_ear"></span> 猫耳](/tools/cat_ear/README.md)
 
 * 家具类
 	- [晴天娃娃](furniture/sunny_doll/README.md)
 
 * 饮食类
-	- [应急食品](/food/paimon/README.md)
+	- [<span class="item-paimon"></span> 应急食品](/food/paimon/README.md)
 	- [泡泡糖](/food/bubble_gum/README.md)
-	- [黑暗料理](food/dark_cuisine/README.md)
-	- [拐杖糖](food/candy_cane/README.md)
+	- [<span class="item-dark_cuisine"></span> 黑暗料理](food/dark_cuisine/README.md)
+	- [<span class="item-candy_cane"></span> 拐杖糖](food/candy_cane/README.md)
 
 * 玩具类
 	- [泡泡棒](/toys/bubble_wand/README.md)
