@@ -18,9 +18,17 @@
 
 ## 盔甲自定义纹理失效/渲染错误
 
-如果你正在使用其他修改原版着色器的资源包以及mod，如光影，可能会导致渲染错误
+如果你正在使用其他修改原版着色器的资源包以及mod，如光影，会导致渲染错误
 
-解决方法：停止使用光影、重启游戏、重载资源包
+经我翻社区查找似乎是因光影着色器与原版着色器冲突导致，当然我不敢直接下定论
+
+解决方法：停止使用光影
+
+> 有关此问题的 iessues
+>
+> https://github.com/IrisShaders/Iris/issues/1042
+>
+> https://github.com/sp614x/optifine/issues/6391
 
 <img src="./Help/optifine.jpg" width="400px" />
 
