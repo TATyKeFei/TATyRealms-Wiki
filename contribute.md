@@ -18,7 +18,7 @@
 | mengyihh             | 早期 TATySMP BE 时代的辅助指令师、管理             |                                                                                      |
 | giaojzf              | 帮助过旧主城建筑                                  |                                                                                      |
 | XiaoruiHiHa2024      | 提供设计灵感、小部分wiki文档                       | [<span class="icon-github"></span> Github](https://github.com/Xrui875)               |
-| jhqwqmc              | 帮忙修复生存一区出生点卡顿 BUG                     | [<span class="icon-github"></span> Github](https://github.com/jhqwqmc)               |
+| jhqwqmc              | 帮忙解决生存一区出生点卡顿 BUG                     | [<span class="icon-github"></span> Github](https://github.com/jhqwqmc)               |
 | TOTRYT               | 帮忙代购插件                                      |                                                                                      |
 
 # 贡献者有什么权益?
