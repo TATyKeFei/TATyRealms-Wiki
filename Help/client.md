@@ -22,13 +22,13 @@
 
 #### ** 演示 **
 
-<img src="/Help/custom_block.gif" width="400px" />
+<img src="/Help/custom_block.gif" width="500px" />
 
 上方的自定义方块被挖掉后下方的自定义方块会短暂闪成变成音符盒
 
 #### ** 解释 **
 
-<img src="/Help/reason.jpg" width="400px" />
+<img src="/Help/reason.jpg" height="500px" />
 
 总结 mojang 的锅
 
