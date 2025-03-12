@@ -6,7 +6,7 @@
 
 <!--不要太长，否则整理起来会乱-->
 
-| 贡献玩家              | 贡献内容                                         | 相关连接                                                                              |
+| 贡献者                | 贡献内容                                         | 相关连接                                                                              |
 | :---:                | :---                                             | :---                                                                                 |
 | TATyKeFei            | 美术资源、维护、策划、设计、模型                    | [<span class="icon-github"></span> Github](https://github.com/TATyKeFei)             |
 | Bestcb               | 为 TATyRealms 提供游戏服务器                       | [Axolotland 服务器](https://www.mcax.cn/)                                            |
@@ -28,8 +28,8 @@
 
 如果你会些像素画、建筑、建模、代码、编写wiki等等..
 
-都可以为 TATyRealms 贡献，在q群找服主(群主)即可
+都可以为 TATyRealms 贡献，在q群找服主(群主)私聊说出合作意向探讨即可
 
-> 最近更新：2025/3/3
+> 最近更新：2025/3/12
 >
 > 编辑：TATyKeFei
