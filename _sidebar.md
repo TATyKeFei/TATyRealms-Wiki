@@ -39,7 +39,6 @@
 	- [* 宠物](/Play/mcpets/README)
 
 * 材料类
-
     - [<span class="item-magic_powder"></span> 魔术粉](/materials/magic_powder/README.md)
 
 * 武器装备
@@ -47,6 +46,7 @@
 	- [忍者套装](/equi/ninja/README)
 	- [铜套装](/equi/copper/README.md)
 	- [跳跳鞋](/equi/jump_boot/README.md)
+	- [矿泉水空瓶](/equi/empty_bottle/README.md)
 	- [* 语文书](/equi/chinese_book/README.md)
 
 * 工具类
