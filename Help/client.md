@@ -32,7 +32,9 @@
 
 <img src="/Help/reason.jpg" height="500px" />
 
-总结 mojang 屎山代码发力了
+自定义方块在服务端中是真正的自定义方块，是正常的没有影响
+
+但客户端发癫，mojang 屎山代码发力了
 
 <!-- tabs:end -->
 
