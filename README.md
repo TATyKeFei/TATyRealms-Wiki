@@ -46,7 +46,7 @@ TATyRealms还处于开发中状态，很多不完整内容
 
 TATyRealms 还处于建设阶段，Wiki 并不完善并且随时会修改！！
 
-服务器只有服主一人在更新维护。由于服主沉迷于第五人格，因此文档会有遗漏
+服务器只有服主一人在更新维护，因此可能出现文档遗漏
 
 玩家可以来 [Github仓库](https://github.com/TATyKeFei/TATyRealms-Wiki) 页面 fork 这个 wiki ，然后在 github 通过打开拉取请求帮助完善 wiki
 
