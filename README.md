@@ -23,7 +23,7 @@ TATyRealms还处于开发中状态，很多不完整内容
 > [!ATTENTION]
 > TATyRealms 还处于开发中状态，当前还属于半成品服务器
 > 
-> 因此会看到很多未完工未完善的内容！当前内容不代表服务器最终内容
+> 因此会看到很多未完工未完善的内容！当前内容不代表服务器最终品质
 >
 > TATyRealms 遵循 [Minecraft EULA](https://www.minecraft.net/zh-hans/eula) 协议
 
