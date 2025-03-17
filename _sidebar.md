@@ -48,6 +48,7 @@
 	- [跳跳鞋](/equi/jump_boot/README.md)
 	- [矿泉水空瓶](/equi/empty_bottle/README.md)
 	- [* 语文书](/equi/chinese_book/README.md)
+	- [<span class="item-oscillator_switch"></span>起爆器开关](/equi/oscillator_switch/README.md)
 
 * 工具类
 	- [<span class="item-mirror"></span> 魔镜](tools/mirror/README)

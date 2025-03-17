@@ -114,3 +114,12 @@
     width: 16px;
     height: 16px;
 }
+
+/*跳蛋*/
+.item-oscillator_switch {
+    background-image: url(./item-icon/oscillator_switch.png);
+    display: inline-block;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}
